@@ -1,3 +1,4 @@
+ID_PARTICIPANTE,TASK_NUMBER,TIME_OF_EVENT,TASK_CLICK_NUMBER,EVENT
 0,1,738579.19:09:33.7327230,1,Open: 260
 0,1,738579.19:09:35.6060850,2,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton
 0,1,738579.19:09:37.3400659,3,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton

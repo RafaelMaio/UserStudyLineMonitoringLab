@@ -1,0 +1,39 @@
+
+{
+"Open: ___": {"event": "select_station"},
+
+"PersonalInfo/KPIsSpecific/ShiftNumberSlider": {"event": "set_slider"},
+"PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton": {"event": "show_cycle", "context": "personal"},
+"PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon": {"event": "close", "context": "personal"},
+
+"PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton": {"event": "back", "context": "personal", "subcontext": "cycle_time_main"},
+"PersonalInfo/KPIsSpecific/TitleBar/Buttons/BackButton": {"event": "back", "context": "personal", "subcontext": "kpi_specific"},
+"HandMenu/LineMonitoringMenu/BackButton": {"event": "back", "context": "handmenu"},
+"PersonalInfo/KPIsMain/TitleBar/Buttons/BackButton": {"event": "back", "context": "personal", "subcontext": "kpi_main"},
+
+"HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton": {"event": "finish_task"},
+
+"HandMenu/LineMonitoringMenu/FilterButton": {"event": "show_filters"},
+"HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton": {"event": "bottleneck", "context": "handmenu"},
+"HandMenu/LineMonitoringMenu/FilterButtonCollection/AllButton": {"event": "all", "context": "handmenu"},
+"PersonalInfo/GeneralStationInfo/Buttons/KPIsButton": {"event": "show_kpi", "context": "personal"},
+"HandMenu/LineMonitoringMenu/FilterButtonCollection/KPIsButton": {"event": "show_kpi", "context": "handmenu"},
+"HandMenu/LineMonitoringMenu/CancelFilteringButton": {"event": "cancel_filter", "context": "handmenu"},
+
+"PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton": {"event": "close", "context": "personal", "subcontext": "kpi_main"},
+"PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton": {"event": "close", "context": "personal", "subcontext": "cycle_time_main"},
+"PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton": {"event": "close", "context": "personal", "subcontext": "kpi_specific"},
+
+"PersonalInfo/KPIsMain/Buttons/OEEButton": {"event": "select_attr", "attr": "oee"},
+"PersonalInfo/KPIsMain/Buttons/PartCountButton": {"event": "select_attr", "attr": "partCount"},
+"HandMenu/LineMonitoringMenu/OverviewButton": {"event": "overview"},
+
+"PersonalInfo/StationsOverview/TitleBar/Buttons/FollowMeButton": {"event": "followme"},
+
+"PersonalInfo/KPIsMain/Buttons/PartCountNIOButton": {"event": "select_attr", "attr": "partCountNIO"},
+"PersonalInfo/GeneralStationInfo/Buttons/BottleneckButton": {"event": "bottleneck", "context": "personal"},
+
+"HandMenu/MainMenu/ButtonCollection/LineMonitoringButton": {"event": "line_monitoring"}
+}
+
+
