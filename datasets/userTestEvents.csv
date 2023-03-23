@@ -1,515 +1,515 @@
-time,TASK_CLICK_NUMBER,fullEvent,id,task,event,context,subcontext,attr,station,environment,element,lx,ly,vis_id,value,vis-id
-2023-03-10 19:09:33.732,1.0,Open: 260,0,1,select_station,,,,260,ar,,,,,,
-2023-03-10 19:09:35.606,2.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,0,1,show_cycle,personal,,,,ar,,,,,,
-2023-03-10 19:09:37.340,3.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,0,1,back,personal,cycle_time_main,,,ar,,,,,,
-2023-03-10 19:09:40.271,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,2,finish_task,,,,,ar,,,,,,
-2023-03-10 19:09:42.119,2.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,0,2,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 19:09:45.505,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,3,finish_task,,,,,ar,,,,,,
-2023-03-10 19:09:47.392,2.0,HandMenu/LineMonitoringMenu/FilterButton,0,3,show_filters,,,,,ar,,,,,,
-2023-03-10 19:09:48.245,3.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,0,3,bottleneck,handmenu,,,,ar,,,,,,
-2023-03-10 19:09:53.687,4.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,0,3,close,personal,kpi_main,,,ar,,,,,,
-2023-03-10 19:09:58.024,5.0,HandMenu/LineMonitoringMenu/CancelFilteringButton,0,3,cancel_filter,handmenu,,,,ar,,,,,,
-2023-03-10 19:10:00.085,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,4,finish_task,,,,,ar,,,,,,
-2023-03-10 19:10:02.625,2.0,HandMenu/LineMonitoringMenu/FilterButton,0,4,show_filters,,,,,ar,,,,,,
-2023-03-10 19:10:03.301,3.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/AllButton,0,4,all,handmenu,,,,ar,,,,,,
-2023-03-10 19:10:03.939,4.0,HandMenu/LineMonitoringMenu/CancelFilteringButton,0,4,cancel_filter,handmenu,,,,ar,,,,,,
-2023-03-10 19:10:04.948,5.0,Open: 290,0,4,select_station,,,,290,ar,,,,,,
-2023-03-10 19:10:06.409,6.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,0,4,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 19:10:06.993,7.0,PersonalInfo/KPIsMain/Buttons/OEEButton,0,4,select_attr,,,oee,,ar,,,,,,
-2023-03-10 19:10:08.184,8.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar,,,,,,
-2023-03-10 19:10:09.541,9.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar,,,,,,
-2023-03-10 19:10:09.801,10.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar,,,,,,
-2023-03-10 19:10:10.434,11.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar,,,,,,
-2023-03-10 19:10:12.217,12.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar,,,,,,
-2023-03-10 19:10:13.519,13.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar,,,,,,
-2023-03-10 19:10:15.971,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,5,finish_task,,,,,ar,,,,,,
-2023-03-10 19:10:18.145,2.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/BackButton,0,5,back,personal,kpi_specific,,,ar,,,,,,
-2023-03-10 19:10:18.848,3.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,0,5,select_attr,,,partCount,,ar,,,,,,
-2023-03-10 19:10:21.400,4.0,Open: 260,0,5,select_station,,,,260,ar,,,,,,
-2023-03-10 19:10:22.545,5.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,0,5,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 19:10:23.029,6.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,0,5,select_attr,,,partCount,,ar,,,,,,
-2023-03-10 19:10:26.368,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,5,set_slider,,,,,ar,,,,,,
-2023-03-10 19:10:31.275,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,6,finish_task,,,,,ar,,,,,,
-2023-03-10 17:18:37.697,1.0,Open: 260,1,1,select_station,,,,260,ar,,,,,,
-2023-03-10 17:18:43.210,2.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,1,1,show_cycle,personal,,,,ar,,,,,,
-2023-03-10 17:19:20.401,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,2,finish_task,,,,,ar,,,,,,
-2023-03-10 17:19:31.517,2.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,1,2,back,personal,cycle_time_main,,,ar,,,,,,
-2023-03-10 17:19:33.175,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,1,2,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 17:19:52.694,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,3,finish_task,,,,,ar,,,,,,
-2023-03-10 17:19:58.858,2.0,PersonalInfo/KPIsMain/TitleBar/Buttons/BackButton,1,3,back,personal,kpi_main,,,ar,,,,,,
-2023-03-10 17:20:12.436,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,4,finish_task,,,,,ar,,,,,,
-2023-03-10 17:20:37.114,2.0,Open: 290,1,4,select_station,,,,290,ar,,,,,,
-2023-03-10 17:21:05.403,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,1,4,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 17:21:11.733,4.0,PersonalInfo/KPIsMain/Buttons/OEEButton,1,4,select_attr,,,oee,,ar,,,,,,
-2023-03-10 17:21:21.428,5.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar,,,,,,
-2023-03-10 17:21:33.181,6.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar,,,,,,
-2023-03-10 17:21:45.728,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar,,,,,,
-2023-03-10 17:22:04.829,8.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar,,,,,,
-2023-03-10 17:22:08.365,9.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar,,,,,,
-2023-03-10 17:22:13.034,10.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar,,,,,,
-2023-03-10 17:22:40.052,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,5,finish_task,,,,,ar,,,,,,
-2023-03-10 17:22:52.953,2.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/BackButton,1,5,back,personal,kpi_specific,,,ar,,,,,,
-2023-03-10 17:22:54.124,3.0,PersonalInfo/KPIsMain/TitleBar/Buttons/BackButton,1,5,back,personal,kpi_main,,,ar,,,,,,
-2023-03-10 17:23:02.968,4.0,Open: 260,1,5,select_station,,,,260,ar,,,,,,
-2023-03-10 17:23:27.616,5.0,Open: 270,1,5,select_station,,,,270,ar,,,,,,
-2023-03-10 17:23:32.439,6.0,Open: 260,1,5,select_station,,,,260,ar,,,,,,
-2023-03-10 17:23:40.899,7.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,1,5,show_cycle,personal,,,,ar,,,,,,
-2023-03-10 17:23:43.436,8.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,1,5,back,personal,cycle_time_main,,,ar,,,,,,
-2023-03-10 17:23:44.205,9.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,1,5,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 17:23:47.489,10.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,1,5,select_attr,,,partCount,,ar,,,,,,
-2023-03-10 17:23:53.352,11.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,5,set_slider,,,,,ar,,,,,,
-2023-03-10 17:24:23.719,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,6,finish_task,,,,,ar,,,,,,
-2023-03-10 17:30:46.691,1.0,Open: 260,2,1,select_station,,,,260,ar,,,,,,
-2023-03-10 17:30:51.041,2.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,2,1,show_cycle,personal,,,,ar,,,,,,
-2023-03-10 17:31:07.471,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,2,finish_task,,,,,ar,,,,,,
-2023-03-10 17:31:28.580,2.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,2,2,close,personal,cycle_time_main,,,ar,,,,,,
-2023-03-10 17:31:30.578,3.0,Open: 260,2,2,select_station,,,,260,ar,,,,,,
-2023-03-10 17:31:32.334,4.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,2,2,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 17:32:02.294,5.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,2,2,close,personal,kpi_main,,,ar,,,,,,
-2023-03-10 17:32:06.279,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,3,finish_task,,,,,ar,,,,,,
-2023-03-10 17:32:24.898,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,4,finish_task,,,,,ar,,,,,,
-2023-03-10 17:32:25.721,2.0,Open: 270,2,4,select_station,,,,270,ar,,,,,,
-2023-03-10 17:32:48.121,3.0,Open: 290,2,4,select_station,,,,290,ar,,,,,,
-2023-03-10 17:32:58.907,4.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,2,4,close,personal,,,,ar,,,,,,
-2023-03-10 17:33:03.452,5.0,Open: 290,2,4,select_station,,,,290,ar,,,,,,
-2023-03-10 17:33:10.831,6.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,2,4,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 17:33:17.700,7.0,PersonalInfo/KPIsMain/Buttons/OEEButton,2,4,select_attr,,,oee,,ar,,,,,,
-2023-03-10 17:33:26.829,8.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,2,4,set_slider,,,,,ar,,,,,,
-2023-03-10 17:33:33.824,9.0,Open: 290,2,4,select_station,,,,290,ar,,,,,,
-2023-03-10 17:33:37.350,10.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,2,4,close,personal,,,,ar,,,,,,
-2023-03-10 17:33:40.643,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,5,finish_task,,,,,ar,,,,,,
-2023-03-10 17:33:50.676,2.0,Open: 290,2,5,select_station,,,,290,ar,,,,,,
-2023-03-10 17:33:53.515,3.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,2,5,close,personal,,,,ar,,,,,,
-2023-03-10 17:33:56.576,4.0,Open: 260,2,5,select_station,,,,260,ar,,,,,,
-2023-03-10 17:34:05.246,5.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,2,5,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 17:34:06.583,6.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,2,5,select_attr,,,partCount,,ar,,,,,,
-2023-03-10 17:34:39.022,7.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,2,5,close,personal,kpi_specific,,,ar,,,,,,
-2023-03-10 17:34:44.777,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,6,finish_task,,,,,ar,,,,,,
-2023-03-10 09:52:17.844,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,2,finish_task,,,,,ar,,,,,,
-2023-03-10 09:52:32.191,2.0,Open: 260,3,2,select_station,,,,260,ar,,,,,,
-2023-03-10 09:52:33.801,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,3,2,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 09:52:46.026,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,3,finish_task,,,,,ar,,,,,,
-2023-03-10 09:53:01.945,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,4,finish_task,,,,,ar,,,,,,
-2023-03-10 09:53:09.397,2.0,Open: 290,3,4,select_station,,,,290,ar,,,,,,
-2023-03-10 09:53:26.989,3.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,4,close,personal,,,,ar,,,,,,
-2023-03-10 09:53:35.927,4.0,Open: 290,3,4,select_station,,,,290,ar,,,,,,
-2023-03-10 09:53:46.894,5.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,3,4,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 09:53:48.801,6.0,PersonalInfo/KPIsMain/Buttons/OEEButton,3,4,select_attr,,,oee,,ar,,,,,,
-2023-03-10 09:53:52.339,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,
-2023-03-10 09:53:52.954,8.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,
-2023-03-10 09:53:53.168,9.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,
-2023-03-10 09:53:54.353,10.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,
-2023-03-10 09:53:56.252,11.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,
-2023-03-10 09:53:58.940,12.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,
-2023-03-10 09:54:03.106,13.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,
-2023-03-10 09:54:08.170,14.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,
-2023-03-10 09:54:42.287,15.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,
-2023-03-10 09:54:44.204,16.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,
-2023-03-10 09:54:45.917,17.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,
-2023-03-10 09:55:09.751,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,5,finish_task,,,,,ar,,,,,,
-2023-03-10 09:55:38.107,2.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,3,5,close,personal,kpi_specific,,,ar,,,,,,
-2023-03-10 09:55:43.406,3.0,Open: 260,3,5,select_station,,,,260,ar,,,,,,
-2023-03-10 09:55:47.595,4.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,3,5,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 09:55:48.480,5.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,3,5,select_attr,,,partCount,,ar,,,,,,
-2023-03-10 09:55:54.871,6.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,5,set_slider,,,,,ar,,,,,,
-2023-03-10 09:55:57.487,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,5,set_slider,,,,,ar,,,,,,
-2023-03-10 09:56:17.357,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,6,finish_task,,,,,ar,,,,,,
-2023-03-10 09:56:19.938,2.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,3,6,close,personal,kpi_specific,,,ar,,,,,,
-2023-03-10 09:57:05.226,3.0,Open: 290,3,6,select_station,,,,290,ar,,,,,,
-2023-03-10 09:57:11.357,4.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar,,,,,,
-2023-03-10 09:57:13.963,5.0,Open: 260,3,6,select_station,,,,260,ar,,,,,,
-2023-03-10 09:57:22.808,6.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar,,,,,,
-2023-03-10 09:57:26.805,7.0,Open: 260,3,6,select_station,,,,260,ar,,,,,,
-2023-03-10 09:57:34.472,8.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar,,,,,,
-2023-03-10 09:57:48.339,9.0,Open: 260,3,6,select_station,,,,260,ar,,,,,,
-2023-03-10 09:57:58.290,10.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar,,,,,,
-2023-03-10 09:58:01.105,11.0,Open: 260,3,6,select_station,,,,260,ar,,,,,,
-2023-03-10 11:42:37.975,1.0,Open: 260,4,1,select_station,,,,260,ar,,,,,,
-2023-03-10 11:42:39.811,2.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,4,1,show_cycle,personal,,,,ar,,,,,,
-2023-03-10 11:42:43.086,3.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,4,1,back,personal,cycle_time_main,,,ar,,,,,,
-2023-03-10 11:42:44.464,4.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,4,1,close,personal,,,,ar,,,,,,
-2023-03-10 11:42:50.166,5.0,Open: 270,4,1,select_station,,,,270,ar,,,,,,
-2023-03-10 11:42:51.383,6.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,4,1,show_cycle,personal,,,,ar,,,,,,
-2023-03-10 11:42:58.909,7.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,4,1,close,personal,cycle_time_main,,,ar,,,,,,
-2023-03-10 11:43:01.250,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,2,finish_task,,,,,ar,,,,,,
-2023-03-10 11:43:10.038,2.0,Open: 260,4,2,select_station,,,,260,ar,,,,,,
-2023-03-10 11:43:12.092,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,4,2,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 11:43:25.334,4.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,4,2,close,personal,kpi_main,,,ar,,,,,,
-2023-03-10 11:43:31.817,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,3,finish_task,,,,,ar,,,,,,
-2023-03-10 11:43:44.135,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,4,finish_task,,,,,ar,,,,,,
-2023-03-10 11:43:55.194,2.0,HandMenu/LineMonitoringMenu/FilterButton,4,4,show_filters,,,,,ar,,,,,,
-2023-03-10 11:44:01.332,3.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/KPIsButton,4,4,show_kpi,handmenu,,,,ar,,,,,,
-2023-03-10 11:44:06.134,4.0,Open: 290,4,4,select_station,,,,290,ar,,,,,,
-2023-03-10 11:44:09.313,5.0,PersonalInfo/KPIsMain/Buttons/OEEButton,4,4,select_attr,,,oee,,ar,,,,,,
-2023-03-10 11:44:15.733,6.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,4,4,set_slider,,,,,ar,,,,,,
-2023-03-10 11:44:28.674,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,5,finish_task,,,,,ar,,,,,,
-2023-03-10 11:44:38.818,2.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,4,5,close,personal,kpi_specific,,,ar,,,,,,
-2023-03-10 11:44:41.469,3.0,Open: 260,4,5,select_station,,,,260,ar,,,,,,
-2023-03-10 11:44:41.512,4.0,Open: 260,4,5,select_station,,,,260,ar,,,,,,
-2023-03-10 11:44:41.559,5.0,Open: 260,4,5,select_station,,,,260,ar,,,,,,
-2023-03-10 11:44:48.938,6.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,4,5,select_attr,,,partCount,,ar,,,,,,
-2023-03-10 11:44:55.710,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,4,5,set_slider,,,,,ar,,,,,,
-2023-03-10 11:45:13.168,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,6,finish_task,,,,,ar,,,,,,
-2023-03-10 11:45:14.975,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,7,finish_task,,,,,ar,,,,,,
-2023-03-10 11:45:17.049,2.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/AllButton,4,7,all,handmenu,,,,ar,,,,,,
-2023-03-10 11:45:26.373,3.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,4,7,bottleneck,handmenu,,,,ar,,,,,,
-2023-03-10 11:46:13.868,4.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,4,7,close,personal,kpi_specific,,,ar,,,,,,
-2023-03-10 11:46:20.855,5.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,4,7,bottleneck,handmenu,,,,ar,,,,,,
-2023-03-10 11:46:23.139,6.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,4,7,bottleneck,handmenu,,,,ar,,,,,,
-2023-03-10 11:46:32.078,7.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/CycleTimeButton,4,7,,,,,,ar,,,,,,
-2023-03-10 11:46:39.722,8.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/KPIsButton,4,7,show_kpi,handmenu,,,,ar,,,,,,
-2023-03-10 11:46:46.828,9.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/CycleTimeButton,4,7,,,,,,ar,,,,,,
-2023-03-10 11:46:48.860,10.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/KPIsButton,4,7,show_kpi,handmenu,,,,ar,,,,,,
-2023-03-10 11:46:51.220,11.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/CycleTimeButton,4,7,,,,,,ar,,,,,,
-2023-03-10 11:46:51.856,12.0,Open: 270,4,7,select_station,,,,270,ar,,,,,,
-2023-03-10 11:46:54.562,13.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,4,7,close,personal,cycle_time_main,,,ar,,,,,,
-2023-03-10 11:46:55.114,14.0,Open: 270,4,7,select_station,,,,270,ar,,,,,,
-2023-03-10 11:46:56.752,15.0,HandMenu/LineMonitoringMenu/OverviewButton,4,7,overview,,,,,ar,,,,,,
-2023-03-10 11:47:03.643,16.0,PersonalInfo/StationsOverview/TitleBar/Buttons/FollowMeButton,4,7,followme,,,,,ar,,,,,,
-2023-03-10 11:47:09.440,17.0,HandMenu/LineMonitoringMenu/BackButton,4,7,back,handmenu,,,,ar,,,,,,
-2023-03-10 11:27:04.911,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,2,finish_task,,,,,ar,,,,,,
-2023-03-10 11:27:27.287,2.0,Open: 260,5,2,select_station,,,,260,ar,,,,,,
-2023-03-10 11:27:31.726,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,2,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 11:27:55.396,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,3,finish_task,,,,,ar,,,,,,
-2023-03-10 11:28:02.431,2.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,5,3,close,personal,kpi_main,,,ar,,,,,,
-2023-03-10 11:28:10.748,3.0,Open: 270,5,3,select_station,,,,270,ar,,,,,,
-2023-03-10 11:28:17.314,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,4,finish_task,,,,,ar,,,,,,
-2023-03-10 11:28:28.267,2.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,4,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 11:28:51.255,3.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,5,4,close,personal,kpi_main,,,ar,,,,,,
-2023-03-10 11:28:58.666,4.0,Open: 290,5,4,select_station,,,,290,ar,,,,,,
-2023-03-10 11:29:13.630,5.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,5,4,close,personal,,,,ar,,,,,,
-2023-03-10 11:29:15.676,6.0,Open: 290,5,4,select_station,,,,290,ar,,,,,,
-2023-03-10 11:29:20.119,7.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,4,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 11:29:30.076,8.0,PersonalInfo/KPIsMain/Buttons/OEEButton,5,4,select_attr,,,oee,,ar,,,,,,
-2023-03-10 11:30:28.131,9.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,4,set_slider,,,,,ar,,,,,,
-2023-03-10 11:30:31.512,10.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,4,set_slider,,,,,ar,,,,,,
-2023-03-10 11:30:42.947,11.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,5,4,close,personal,kpi_specific,,,ar,,,,,,
-2023-03-10 11:30:43.711,12.0,Open: 290,5,4,select_station,,,,290,ar,,,,,,
-2023-03-10 11:30:46.840,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,5,finish_task,,,,,ar,,,,,,
-2023-03-10 11:31:08.300,2.0,Open: 260,5,5,select_station,,,,260,ar,,,,,,
-2023-03-10 11:31:25.634,3.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,5,5,close,personal,,,,ar,,,,,,
-2023-03-10 11:31:29.021,4.0,Open: 260,5,5,select_station,,,,260,ar,,,,,,
-2023-03-10 11:31:41.622,5.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,5,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 11:31:47.947,6.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,5,5,select_attr,,,partCount,,ar,,,,,,
-2023-03-10 11:31:57.313,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar,,,,,,
-2023-03-10 11:31:58.036,8.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar,,,,,,
-2023-03-10 11:31:58.446,9.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar,,,,,,
-2023-03-10 11:32:00.069,10.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar,,,,,,
-2023-03-10 11:32:01.525,11.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar,,,,,,
-2023-03-10 11:32:02.166,12.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar,,,,,,
-2023-03-10 11:33:30.591,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,6,finish_task,,,,,ar,,,,,,
-2023-03-10 15:20:39.625,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,2,finish_task,,,,,ar,,,,,,
-2023-03-10 15:20:49.852,2.0,Open: 260,6,2,select_station,,,,260,ar,,,,,,
-2023-03-10 15:20:52.942,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,2,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 15:21:06.520,4.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,6,2,close,personal,kpi_main,,,ar,,,,,,
-2023-03-10 15:23:24.547,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,3,finish_task,,,,,ar,,,,,,
-2023-03-10 15:23:42.914,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,4,finish_task,,,,,ar,,,,,,
-2023-03-10 15:23:51.849,2.0,Open: 290,6,4,select_station,,,,290,ar,,,,,,
-2023-03-10 15:23:54.441,3.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,6,4,show_cycle,personal,,,,ar,,,,,,
-2023-03-10 15:23:59.683,4.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,6,4,back,personal,cycle_time_main,,,ar,,,,,,
-2023-03-10 15:24:01.753,5.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,4,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 15:24:03.300,6.0,PersonalInfo/KPIsMain/Buttons/OEEButton,6,4,select_attr,,,oee,,ar,,,,,,
-2023-03-10 15:24:12.779,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,6,4,set_slider,,,,,ar,,,,,,
-2023-03-10 15:24:39.944,8.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,6,4,close,personal,kpi_specific,,,ar,,,,,,
-2023-03-10 15:24:42.900,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,5,finish_task,,,,,ar,,,,,,
-2023-03-10 15:24:59.964,2.0,Open: 260,6,5,select_station,,,,260,ar,,,,,,
-2023-03-10 15:25:00.184,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,5,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 15:25:02.548,4.0,PersonalInfo/KPIsMain/Buttons/PartCountNIOButton,6,5,select_attr,,,partCountNIO,,ar,,,,,,
-2023-03-10 15:25:08.008,5.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,6,5,set_slider,,,,,ar,,,,,,
-2023-03-10 15:25:12.360,6.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,6,5,close,personal,kpi_specific,,,ar,,,,,,
-2023-03-10 15:25:13.527,7.0,Open: 260,6,5,select_station,,,,260,ar,,,,,,
-2023-03-10 15:25:14.868,8.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,5,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 15:25:17.184,9.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,6,5,select_attr,,,partCount,,ar,,,,,,
-2023-03-10 15:25:22.091,10.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,6,5,set_slider,,,,,ar,,,,,,
-2023-03-10 15:25:30.094,11.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,6,5,close,personal,kpi_specific,,,ar,,,,,,
-2023-03-10 15:25:44.879,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,6,finish_task,,,,,ar,,,,,,
-2023-03-10 15:55:19.673,1.0,Open: 260,7,1,select_station,,,,260,ar,,,,,,
-2023-03-10 15:56:02.394,2.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,7,1,close,personal,,,,ar,,,,,,
-2023-03-10 15:56:05.439,3.0,Open: 260,7,1,select_station,,,,260,ar,,,,,,
-2023-03-10 15:56:05.638,4.0,PersonalInfo/GeneralStationInfo/Buttons/BottleneckButton,7,1,bottleneck,personal,,,,ar,,,,,,
-2023-03-10 15:57:01.367,5.0,HandMenu/LineMonitoringMenu/FilterButton,7,1,show_filters,,,,,ar,,,,,,
-2023-03-10 15:57:06.071,6.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/AllButton,7,1,all,handmenu,,,,ar,,,,,,
-2023-03-10 15:57:14.431,7.0,HandMenu/LineMonitoringMenu/BackButton,7,1,back,handmenu,,,,ar,,,,,,
-2023-03-10 15:57:38.087,8.0,HandMenu/MainMenu/ButtonCollection/LineMonitoringButton,7,1,line_monitoring,,,,,ar,,,,,,
-2023-03-10 15:57:48.561,9.0,Open: 260,7,1,select_station,,,,260,ar,,,,,,
-2023-03-10 15:57:52.656,10.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,7,1,show_cycle,personal,,,,ar,,,,,,
-2023-03-10 15:58:07.662,11.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,7,1,close,personal,cycle_time_main,,,ar,,,,,,
-2023-03-10 15:58:24.374,12.0,Open: 270,7,1,select_station,,,,270,ar,,,,,,
-2023-03-10 15:58:30.380,13.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,7,1,show_cycle,personal,,,,ar,,,,,,
-2023-03-10 15:58:34.886,14.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,7,1,back,personal,cycle_time_main,,,ar,,,,,,
-2023-03-10 15:58:38.076,15.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,7,1,close,personal,,,,ar,,,,,,
-2023-03-10 15:58:55.714,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,2,finish_task,,,,,ar,,,,,,
-2023-03-10 15:59:06.860,2.0,Open: 260,7,2,select_station,,,,260,ar,,,,,,
-2023-03-10 15:59:07.039,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,7,2,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 15:59:27.694,4.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,7,2,close,personal,kpi_main,,,ar,,,,,,
-2023-03-10 15:59:33.099,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,3,finish_task,,,,,ar,,,,,,
-2023-03-10 15:59:52.297,2.0,Open: 270,7,3,select_station,,,,270,ar,,,,,,
-2023-03-10 15:59:56.637,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,4,finish_task,,,,,ar,,,,,,
-2023-03-10 16:00:10.164,2.0,Open: 290,7,4,select_station,,,,290,ar,,,,,,
-2023-03-10 16:00:42.895,3.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,7,4,close,personal,,,,ar,,,,,,
-2023-03-10 16:00:45.314,4.0,Open: 290,7,4,select_station,,,,290,ar,,,,,,
-2023-03-10 16:00:45.499,5.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,7,4,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 16:00:57.124,6.0,PersonalInfo/KPIsMain/Buttons/OEEButton,7,4,select_attr,,,oee,,ar,,,,,,
-2023-03-10 16:01:03.594,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,7,4,set_slider,,,,,ar,,,,,,
-2023-03-10 16:01:17.007,8.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,7,4,set_slider,,,,,ar,,,,,,
-2023-03-10 16:02:40.895,9.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,7,4,close,personal,kpi_specific,,,ar,,,,,,
-2023-03-10 16:02:43.755,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,5,finish_task,,,,,ar,,,,,,
-2023-03-10 16:02:56.146,2.0,Open: 260,7,5,select_station,,,,260,ar,,,,,,
-2023-03-10 16:02:57.779,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,7,5,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 16:02:59.656,4.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,7,5,select_attr,,,partCount,,ar,,,,,,
-2023-03-10 16:03:26.639,5.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,7,5,set_slider,,,,,ar,,,,,,
-2023-03-10 16:03:54.183,6.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,7,5,close,personal,kpi_specific,,,ar,,,,,,
-2023-03-10 16:03:58.399,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,6,finish_task,,,,,ar,,,,,,
-2023-03-10 16:12:15.450,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,2,finish_task,,,,,ar,,,,,,
-2023-03-10 16:12:42.018,2.0,Open: 260,8,2,select_station,,,,260,ar,,,,,,
-2023-03-10 16:12:45.941,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,8,2,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 16:13:00.679,4.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,8,2,close,personal,kpi_main,,,ar,,,,,,
-2023-03-10 16:13:04.702,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,3,finish_task,,,,,ar,,,,,,
-2023-03-10 16:13:18.381,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,4,finish_task,,,,,ar,,,,,,
-2023-03-10 16:13:32.960,2.0,Open: 290,8,4,select_station,,,,290,ar,,,,,,
-2023-03-10 16:13:46.582,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,8,4,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 16:13:59.717,4.0,PersonalInfo/KPIsMain/Buttons/OEEButton,8,4,select_attr,,,oee,,ar,,,,,,
-2023-03-10 16:14:15.461,5.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,8,4,set_slider,,,,,ar,,,,,,
-2023-03-10 16:14:25.081,6.0,Open: 290,8,4,select_station,,,,290,ar,,,,,,
-2023-03-10 16:14:29.651,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,5,finish_task,,,,,ar,,,,,,
-2023-03-10 16:14:34.729,2.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,8,5,close,personal,,,,ar,,,,,,
-2023-03-10 16:14:55.090,3.0,Open: 260,8,5,select_station,,,,260,ar,,,,,,
-2023-03-10 16:14:56.452,4.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,8,5,show_kpi,personal,,,,ar,,,,,,
-2023-03-10 16:14:58.075,5.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,8,5,select_attr,,,partCount,,ar,,,,,,
-2023-03-10 16:15:08.476,6.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,8,5,set_slider,,,,,ar,,,,,,
-2023-03-10 16:15:24.814,7.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,8,5,close,personal,kpi_specific,,,ar,,,,,,
-2023-03-10 16:15:28.150,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,6,finish_task,,,,,ar,,,,,,
-2023-03-09 17:29:00.508,,,1,1,finish_task,,,,-1,tablet,icon,1067.0,171.0,,,
-2023-03-09 17:29:06.004,,,1,2,select_station,,,,-1,tablet,list,966.0,293.0,,,
-2023-03-09 17:29:06.416,,,1,2,select_station,,,,270,tablet,list,960.0,323.0,,,
-2023-03-09 17:29:09.645,,,1,2,select_station,,,,290,tablet,list,943.0,287.0,,,
-2023-03-09 17:29:10.862,,,1,2,select_station,,,,270,tablet,list,960.0,256.0,,,
-2023-03-09 17:29:11.912,,,1,2,select_station,,,,260,tablet,list,942.0,256.0,,,
-2023-03-09 17:29:12.466,,,1,2,select_station,,,,-1,tablet,list,938.0,290.0,,,
-2023-03-09 17:29:12.858,,,1,2,select_station,,,,270,tablet,list,932.0,323.0,,,
-2023-03-09 17:29:14.692,,,1,2,select_station,,,,260,tablet,map,238.0,299.0,,,
-2023-03-09 17:29:15.709,,,1,2,select_station,,,,-1,tablet,map,238.0,294.0,,,
-2023-03-09 17:29:17.876,,,1,2,select_station,,,,290,tablet,map,561.0,62.0,,,
-2023-03-09 17:29:18.124,,,1,2,select_station,,,,270,tablet,map,596.0,150.0,,,
-2023-03-09 17:29:19.093,,,1,2,select_station,,,,260,tablet,map,220.0,302.0,,,
-2023-03-09 17:29:30.845,,,1,2,show_filters,,,,260,tablet,icon,88.0,399.0,,,
-2023-03-09 17:29:36.045,,,1,2,show_kpi,,,,260,tablet,icon,85.0,463.0,,,
-2023-03-09 17:29:43.395,,,1,2,finish_task,,,,-1,tablet,icon,1074.0,180.0,,,
-2023-03-09 17:29:49.096,,,1,3,select_station,,,,-1,tablet,list,1023.0,275.0,,,
-2023-03-09 17:29:52.730,,,1,3,finish_task,,,,-1,tablet,icon,1077.0,174.0,,,
-2023-03-09 17:29:57.851,,,1,4,select_station,,,,-1,tablet,list,969.0,303.0,,,
-2023-03-09 17:30:00.504,,,1,4,show_kpi,,,,290,tablet,icon,86.0,464.0,,,
-2023-03-09 17:30:06.517,,,1,4,select_attr,,,oee,290,tablet,vis,240.0,126.0,1.0,,
-2023-03-09 17:30:11.140,,,1,4,set_slider,,,oee,290,tablet,vis,,,3.0,13,
-2023-03-09 17:30:13.002,,,1,4,set_slider,,,oee,290,tablet,vis,,,3.0,10,
-2023-03-09 17:30:15.973,,,1,4,set_slider,,,oee,290,tablet,vis,,,3.0,11,
-2023-03-09 17:30:28.098,,,1,4,finish_task,,,,-1,tablet,icon,1072.0,165.0,,,
-2023-03-09 17:30:36.922,,,1,5,select_station,,,,-1,tablet,list,974.0,272.0,,,
-2023-03-09 17:31:00.708,,,1,5,show_kpi,,,,260,tablet,icon,87.0,465.0,,,
-2023-03-09 17:31:02.611,,,1,5,select_attr,,,partCount,260,tablet,vis,519.0,144.0,1.0,,
-2023-03-09 17:31:07.731,,,1,5,set_slider,,,partCount,260,tablet,vis,,,3.0,11,
-2023-03-09 17:31:15.102,,,1,5,finish_task,,,,-1,tablet,icon,1072.0,208.0,,,
-2023-03-09 17:38:21.409,,,2,1,finish_task,,,,-1,tablet,icon,1079.0,156.0,,,
-2023-03-09 17:38:26.808,,,2,2,select_station,,,,-1,tablet,list,1059.0,259.0,,,
-2023-03-09 17:38:28.622,,,2,2,show_filters,,,,260,tablet,icon,80.0,397.0,,,
-2023-03-09 17:38:29.308,,,2,2,show_kpi,,,,260,tablet,icon,75.0,452.0,,,
-2023-03-09 17:38:40.287,,,2,2,finish_task,,,,-1,tablet,icon,1071.0,188.0,,,
-2023-03-09 17:39:15.308,,,2,3,finish_task,,,,-1,tablet,icon,1073.0,172.0,,,
-2023-03-09 17:39:19.462,,,2,4,select_station,,,,-1,tablet,list,1046.0,297.0,,,
-2023-03-09 17:39:23.499,,,2,4,show_cycle,,,,290,tablet,icon,141.0,466.0,,,
-2023-03-09 17:39:25.480,,,2,4,show_kpi,,,,290,tablet,icon,90.0,422.0,,,
-2023-03-09 17:39:26.815,,,2,4,select_attr,,,oee,290,tablet,vis,227.0,118.0,1.0,,
-2023-03-09 17:39:39.200,,,2,4,finish_task,,,,-1,tablet,icon,1074.0,166.0,,,
-2023-03-09 17:39:47.421,,,2,5,select_station,,,,-1,tablet,list,1045.0,278.0,,,
-2023-03-09 17:39:48.865,,,2,5,show_cycle,,,,260,tablet,icon,139.0,464.0,,,
-2023-03-09 17:39:50.261,,,2,5,show_kpi,,,,260,tablet,icon,72.0,423.0,,,
-2023-03-09 17:39:51.584,,,2,5,select_attr,,,partCount,260,tablet,vis,531.0,116.0,1.0,,
-2023-03-09 17:39:59.290,,,2,5,finish_task,,,,-1,tablet,icon,1065.0,205.0,,,
-2023-03-10 09:43:44.981,,,3,1,start_evaluation,,,,-1,tablet,page,,,,,
-2023-03-10 09:44:11.122,,,3,1,select_station,,,,-1,tablet,list,977.0,238.0,,,
-2023-03-10 09:44:16.481,,,3,1,finish_task,,,,-1,tablet,icon,1093.0,170.0,,,
-2023-03-10 09:44:25.512,,,3,2,select_station,,,,260,tablet,map,220.0,296.0,,,
-2023-03-10 09:44:26.261,,,3,2,show_filters,,,,260,tablet,icon,74.0,405.0,,,
-2023-03-10 09:44:26.876,,,3,2,show_kpi,,,,260,tablet,icon,71.0,476.0,,,
-2023-03-10 09:45:12.358,,,3,2,finish_task,,,,-1,tablet,icon,1095.0,186.0,,,
-2023-03-10 09:45:24.417,,,3,3,finish_task,,,,-1,tablet,icon,1075.0,159.0,,,
-2023-03-10 09:45:29.249,,,3,4,select_station,,,,290,tablet,map,558.0,49.0,,,
-2023-03-10 09:45:31.145,,,3,4,show_kpi,,,,290,tablet,icon,73.0,453.0,,,
-2023-03-10 09:45:36.366,,,3,4,show_cycle,,,,290,tablet,icon,154.0,542.0,,,
-2023-03-10 09:45:40.032,,,3,4,show_kpi,,,,290,tablet,icon,74.0,425.0,,,
-2023-03-10 09:45:42.141,,,3,4,select_attr,,,oee,290,tablet,vis,216.0,115.0,1.0,,
-2023-03-10 09:45:48.879,,,3,4,set_slider,,,oee,290,tablet,vis,,,3.0,10,
-2023-03-10 09:46:38.392,,,3,4,finish_task,,,,-1,tablet,icon,1087.0,173.0,,,
-2023-03-10 09:46:46.746,,,3,5,select_station,,,,260,tablet,map,224.0,300.0,,,
-2023-03-10 09:46:47.748,,,3,5,show_kpi,,,,260,tablet,icon,96.0,465.0,,,
-2023-03-10 09:46:49.024,,,3,5,select_attr,,,partCount,260,tablet,vis,519.0,108.0,1.0,,
-2023-03-10 09:46:55.721,,,3,5,set_slider,,,partCount,260,tablet,vis,,,3.0,9,
-2023-03-10 09:46:58.292,,,3,5,set_slider,,,partCount,260,tablet,vis,,,3.0,10,
-2023-03-10 09:47:22.268,,,3,5,finish_task,,,,-1,tablet,icon,1087.0,206.0,,,
-2023-03-10 11:17:46.660,,,4,1,start_evaluation,,,,-1,tablet,page,,,,,
-2023-03-10 11:17:53.578,,,4,1,show_filters,,,,-1,tablet,icon,70.0,387.0,,,
-2023-03-10 11:17:54.893,,,4,1,show_kpi,,,,-1,tablet,icon,81.0,464.0,,,
-2023-03-10 11:17:55.648,,,4,1,show_cycle,,,,-1,tablet,icon,149.0,466.0,,,
-2023-03-10 11:17:56.697,,,4,1,select_station,,,,260,tablet,map,221.0,298.0,,,
-2023-03-10 11:17:57.493,,,4,1,show_cycle,,,,260,tablet,icon,143.0,449.0,,,
-2023-03-10 11:18:10.801,,,4,1,close_vis,,,,260,tablet,icon,212.0,415.0,,,
-2023-03-10 11:18:11.670,,,4,1,select_station,,,,270,tablet,map,643.0,153.0,,,
-2023-03-10 11:18:12.299,,,4,1,show_cycle,,,,270,tablet,icon,132.0,459.0,,,
-2023-03-10 11:18:15.804,,,4,1,show_kpi,,,,270,tablet,icon,69.0,417.0,,,
-2023-03-10 11:18:17.405,,,4,1,show_cycle,,,,270,tablet,icon,145.0,529.0,,,
-2023-03-10 11:18:19.344,,,4,1,close_vis,,,,270,tablet,icon,220.0,420.0,,,
-2023-03-10 11:18:20.406,,,4,1,select_station,,,,290,tablet,map,550.0,61.0,,,
-2023-03-10 11:18:21.912,,,4,1,show_cycle,,,,290,tablet,icon,121.0,467.0,,,
-2023-03-10 11:18:29.808,,,4,1,select_station,,,,290,tablet,list,906.0,242.0,,,
-2023-03-10 11:18:31.882,,,4,1,show_kpi,,,,260,tablet,icon,82.0,417.0,,,
-2023-03-10 11:18:34.184,,,4,1,show_cycle,,,,260,tablet,icon,144.0,527.0,,,
-2023-03-10 11:18:42.004,,,4,1,close_vis,,,,260,tablet,icon,200.0,410.0,,,
-2023-03-10 11:18:42.850,,,4,1,select_station,,,,290,tablet,map,559.0,52.0,,,
-2023-03-10 11:18:43.617,,,4,1,show_cycle,,,,290,tablet,icon,133.0,462.0,,,
-2023-03-10 11:18:49.617,,,4,1,close_vis,,,,290,tablet,icon,217.0,431.0,,,
-2023-03-10 11:18:50.431,,,4,1,select_station,,,,270,tablet,map,634.0,163.0,,,
-2023-03-10 11:18:51.035,,,4,1,show_cycle,,,,270,tablet,icon,133.0,459.0,,,
-2023-03-10 11:18:51.816,,,4,1,close_vis,,,,270,tablet,icon,221.0,432.0,,,
-2023-03-10 11:18:52.409,,,4,1,select_station,,,,260,tablet,map,219.0,292.0,,,
-2023-03-10 11:18:52.793,,,4,1,show_cycle,,,,260,tablet,icon,153.0,466.0,,,
-2023-03-10 11:19:02.559,,,4,1,select_station,,,,260,tablet,list,906.0,274.0,,,
-2023-03-10 11:19:04.256,,,4,1,select_station,,,,270,tablet,list,888.0,295.0,,,
-2023-03-10 11:19:07.764,,,4,1,finish_task,,,,-1,tablet,icon,1075.0,162.0,,,
-2023-03-10 11:19:12.705,,,4,2,select_station,,,,260,tablet,map,230.0,290.0,,,
-2023-03-10 11:19:13.319,,,4,2,show_kpi,,,,260,tablet,icon,85.0,455.0,,,
-2023-03-10 11:19:37.821,,,4,2,finish_task,,,,-1,tablet,icon,1073.0,186.0,,,
-2023-03-10 11:19:43.982,,,4,3,select_station,,,,270,tablet,map,623.0,182.0,,,
-2023-03-10 11:19:45.332,,,4,3,show_kpi,,,,270,tablet,icon,92.0,450.0,,,
-2023-03-10 11:19:46.774,,,4,3,show_cycle,,,,270,tablet,icon,149.0,534.0,,,
-2023-03-10 11:19:54.408,,,4,3,close_vis,,,,270,tablet,icon,213.0,437.0,,,
-2023-03-10 11:20:05.452,,,4,3,select_station,,,,270,tablet,list,1053.0,261.0,,,
-2023-03-10 11:20:07.180,,,4,3,select_station,,,,-1,tablet,list,1039.0,264.0,,,
-2023-03-10 11:20:14.303,,,4,3,finish_task,,,,-1,tablet,icon,1089.0,171.0,,,
-2023-03-10 11:20:24.561,,,4,4,select_station,,,,290,tablet,map,544.0,48.0,,,
-2023-03-10 11:20:27.011,,,4,4,show_kpi,,,,290,tablet,icon,73.0,472.0,,,
-2023-03-10 11:20:30.268,,,4,4,select_attr,,,oee,290,tablet,vis,146.0,136.0,1.0,,
-2023-03-10 11:20:36.531,,,4,4,set_slider,,,oee,290,tablet,vis,,,3.0,11,
-2023-03-10 11:20:40.708,,,4,4,set_slider,,,oee,290,tablet,vis,,,3.0,10,
-2023-03-10 11:20:44.513,,,4,4,set_slider,,,oee,290,tablet,vis,,,3.0,14,
-2023-03-10 11:20:52.216,,,4,4,void_selection,,,,290,tablet,vis,274.0,146.0,,,3.0
-2023-03-10 11:20:57.439,,,4,4,finish_task,,,,-1,tablet,icon,1083.0,171.0,,,
-2023-03-10 11:21:03.626,,,4,5,select_station,,,,260,tablet,map,218.0,295.0,,,
-2023-03-10 11:21:05.361,,,4,5,show_kpi,,,,260,tablet,icon,90.0,448.0,,,
-2023-03-10 11:21:09.706,,,4,5,close_vis,,,,260,tablet,icon,226.0,541.0,,,
-2023-03-10 11:21:10.337,,,4,5,select_station,,,,-1,tablet,map,226.0,293.0,,,
-2023-03-10 11:21:10.708,,,4,5,show_kpi,,,,-1,tablet,icon,94.0,457.0,,,
-2023-03-10 11:21:11.765,,,4,5,show_kpi,,,,-1,tablet,icon,85.0,464.0,,,
-2023-03-10 11:21:12.568,,,4,5,show_kpi,,,,-1,tablet,icon,78.0,468.0,,,
-2023-03-10 11:21:13.207,,,4,5,select_station,,,,260,tablet,map,214.0,312.0,,,
-2023-03-10 11:21:13.702,,,4,5,show_kpi,,,,260,tablet,icon,80.0,459.0,,,
-2023-03-10 11:21:20.830,,,4,5,select_attr,,,partCount,260,tablet,vis,515.0,116.0,1.0,,
-2023-03-10 11:21:25.508,,,4,5,set_slider,,,partCount,260,tablet,vis,,,3.0,10,
-2023-03-10 11:21:45.807,,,4,5,finish_task,,,,-1,tablet,icon,1081.0,201.0,,,
-2023-03-10 11:38:26.891,,,5,1,start_evaluation,,,,-1,tablet,page,,,,,
-2023-03-10 11:38:44.245,,,5,1,finish_task,,,,-1,tablet,icon,1077.0,178.0,,,
-2023-03-10 11:38:48.611,,,5,2,select_station,,,,-1,tablet,list,1101.0,260.0,,,
-2023-03-10 11:38:50.074,,,5,2,show_filters,,,,260,tablet,icon,64.0,410.0,,,
-2023-03-10 11:38:51.417,,,5,2,show_kpi,,,,260,tablet,icon,76.0,461.0,,,
-2023-03-10 11:39:39.322,,,5,2,finish_task,,,,-1,tablet,icon,1078.0,188.0,,,
-2023-03-10 11:39:44.579,,,5,3,select_station,,,,-1,tablet,list,1049.0,266.0,,,
-2023-03-10 11:39:53.696,,,5,3,finish_task,,,,-1,tablet,icon,1091.0,171.0,,,
-2023-03-10 11:40:00.566,,,5,4,select_station,,,,-1,tablet,list,1059.0,305.0,,,
-2023-03-10 11:40:03.645,,,5,4,show_cycle,,,,290,tablet,icon,141.0,465.0,,,
-2023-03-10 11:40:04.999,,,5,4,show_kpi,,,,290,tablet,icon,85.0,444.0,,,
-2023-03-10 11:40:13.024,,,5,4,select_station,,,,290,tablet,list,1080.0,307.0,,,
-2023-03-10 11:40:13.788,,,5,4,select_station,,,,-1,tablet,list,1075.0,307.0,,,
-2023-03-10 11:40:14.176,,,5,4,show_kpi,,,,290,tablet,icon,73.0,469.0,,,
-2023-03-10 11:40:17.249,,,5,4,select_attr,,,oee,290,tablet,vis,160.0,144.0,1.0,,
-2023-03-10 11:40:21.109,,,5,4,set_slider,,,oee,290,tablet,vis,,,3.0,10,
-2023-03-10 11:40:27.621,,,5,4,set_slider,,,oee,290,tablet,vis,,,3.0,15,
-2023-03-10 11:41:10.653,,,5,4,set_slider,,,oee,290,tablet,vis,,,3.0,36,
-2023-03-10 11:41:18.421,,,5,4,finish_task,,,,-1,tablet,icon,1079.0,169.0,,,
-2023-03-10 11:41:25.838,,,5,5,select_station,,,,-1,tablet,list,1049.0,277.0,,,
-2023-03-10 11:41:28.837,,,5,5,show_kpi,,,,260,tablet,icon,85.0,457.0,,,
-2023-03-10 11:41:30.555,,,5,5,select_attr,,,partCount,260,tablet,vis,404.0,128.0,1.0,,
-2023-03-10 11:41:35.140,,,5,5,set_slider,,,partCount,260,tablet,vis,,,3.0,11,
-2023-03-10 11:41:42.526,,,5,5,finish_task,,,,-1,tablet,icon,1077.0,224.0,,,
-2023-03-10 15:12:19.191,,,6,1,start_evaluation,,,,-1,tablet,page,,,,,
-2023-03-10 15:12:26.057,,,6,1,select_station,,,,260,tablet,map,245.0,291.0,,,
-2023-03-10 15:12:26.380,,,6,1,show_filters,,,,260,tablet,icon,84.0,383.0,,,
-2023-03-10 15:12:28.157,,,6,1,show_kpi,,,,260,tablet,icon,82.0,458.0,,,
-2023-03-10 15:12:30.345,,,6,1,show_cycle,,,,260,tablet,icon,147.0,548.0,,,
-2023-03-10 15:12:32.853,,,6,1,show_filters,,,,260,tablet,icon,80.0,364.0,,,
-2023-03-10 15:12:34.201,,,6,1,show_filters,,,,260,tablet,icon,73.0,369.0,,,
-2023-03-10 15:12:34.828,,,6,1,close_vis,,,,260,tablet,icon,219.0,411.0,,,
-2023-03-10 15:12:36.745,,,6,1,finish_task,,,,-1,tablet,icon,1084.0,148.0,,,
-2023-03-10 15:12:42.047,,,6,2,select_station,,,,260,tablet,map,219.0,305.0,,,
-2023-03-10 15:12:43.553,,,6,2,show_kpi,,,,260,tablet,icon,79.0,462.0,,,
-2023-03-10 15:12:55.281,,,6,2,finish_task,,,,-1,tablet,icon,1080.0,180.0,,,
-2023-03-10 15:13:06.819,,,6,3,finish_task,,,,-1,tablet,icon,1078.0,164.0,,,
-2023-03-10 15:13:13.016,,,6,4,select_station,,,,290,tablet,map,527.0,50.0,,,
-2023-03-10 15:13:15.361,,,6,4,select_station,,,,-1,tablet,map,552.0,63.0,,,
-2023-03-10 15:13:16.534,,,6,4,show_kpi,,,,-1,tablet,icon,86.0,463.0,,,
-2023-03-10 15:13:17.633,,,6,4,show_kpi,,,,-1,tablet,icon,76.0,457.0,,,
-2023-03-10 15:13:19.540,,,6,4,select_station,,,,290,tablet,map,548.0,65.0,,,
-2023-03-10 15:13:20.651,,,6,4,select_station,,,,-1,tablet,map,539.0,50.0,,,
-2023-03-10 15:13:21.348,,,6,4,select_station,,,,290,tablet,map,543.0,55.0,,,
-2023-03-10 15:13:22.209,,,6,4,show_kpi,,,,290,tablet,icon,95.0,451.0,,,
-2023-03-10 15:13:45.833,,,6,4,select_attr,,,oee,290,tablet,vis,240.0,105.0,1.0,,
-2023-03-10 15:13:53.502,,,6,4,finish_task,,,,-1,tablet,icon,1088.0,161.0,,,
-2023-03-10 15:14:03.622,,,6,5,select_station,,,,260,tablet,map,229.0,297.0,,,
-2023-03-10 15:14:07.768,,,6,5,show_kpi,,,,260,tablet,icon,76.0,460.0,,,
-2023-03-10 15:14:13.770,,,6,5,select_attr,,,partCount,260,tablet,vis,516.0,121.0,1.0,,
-2023-03-10 15:14:19.870,,,6,5,set_slider,,,partCount,260,tablet,vis,,,3.0,10,
-2023-03-10 15:14:30.603,,,6,5,finish_task,,,,-1,tablet,icon,1078.0,213.0,,,
-2023-03-10 16:06:53.864,,,7,1,start_evaluation,,,,-1,tablet,page,,,,,
-2023-03-10 16:06:57.965,,,7,1,finish_task,,,,-1,tablet,icon,1080.0,170.0,,,
-2023-03-10 16:07:02.048,,,7,2,select_station,,,,260,tablet,map,207.0,298.0,,,
-2023-03-10 16:07:02.599,,,7,2,show_filters,,,,260,tablet,icon,77.0,402.0,,,
-2023-03-10 16:07:03.248,,,7,2,show_kpi,,,,260,tablet,icon,82.0,475.0,,,
-2023-03-10 16:07:03.946,,,7,2,show_filters,,,,260,tablet,icon,78.0,463.0,,,
-2023-03-10 16:07:12.334,,,7,2,finish_task,,,,-1,tablet,icon,1078.0,177.0,,,
-2023-03-10 16:07:26.229,,,7,3,finish_task,,,,-1,tablet,icon,1080.0,165.0,,,
-2023-03-10 16:07:29.505,,,7,4,select_station,,,,290,tablet,map,555.0,35.0,,,
-2023-03-10 16:07:30.147,,,7,4,show_filters,,,,290,tablet,icon,80.0,396.0,,,
-2023-03-10 16:07:30.823,,,7,4,show_kpi,,,,290,tablet,icon,75.0,441.0,,,
-2023-03-10 16:07:36.662,,,7,4,select_attr,,,oee,290,tablet,vis,153.0,116.0,1.0,,
-2023-03-10 16:07:40.566,,,7,4,set_slider,,,oee,290,tablet,vis,,,3.0,11,
-2023-03-10 16:07:54.534,,,7,4,finish_task,,,,-1,tablet,icon,1074.0,168.0,,,
-2023-03-10 16:07:59.330,,,7,5,show_kpi,,,,-1,tablet,icon,77.0,460.0,,,
-2023-03-10 16:08:02.383,,,7,5,select_station,,,,260,tablet,map,223.0,295.0,,,
-2023-03-10 16:08:02.925,,,7,5,show_kpi,,,,260,tablet,icon,90.0,456.0,,,
-2023-03-10 16:08:07.524,,,7,5,select_attr,,,partCount,260,tablet,vis,500.0,126.0,1.0,,
-2023-03-10 16:08:13.144,,,7,5,set_slider,,,partCount,260,tablet,vis,,,3.0,10,
-2023-03-10 16:08:26.857,,,7,5,finish_task,,,,-1,tablet,icon,1084.0,200.0,,,
-2023-03-10 16:00:09.818,,,8,1,start_evaluation,,,,-1,tablet,page,,,,,
-2023-03-10 16:00:22.776,,,8,1,select_station,,,,260,tablet,map,236.0,310.0,,,
-2023-03-10 16:00:27.495,,,8,1,finish_task,,,,-1,tablet,icon,1097.0,165.0,,,
-2023-03-10 16:00:38.878,,,8,2,select_station,,,,260,tablet,map,220.0,314.0,,,
-2023-03-10 16:00:39.710,,,8,2,show_filters,,,,260,tablet,icon,76.0,398.0,,,
-2023-03-10 16:00:40.682,,,8,2,show_kpi,,,,260,tablet,icon,69.0,463.0,,,
-2023-03-10 16:01:07.755,,,8,2,finish_task,,,,-1,tablet,icon,1083.0,194.0,,,
-2023-03-10 16:01:24.394,,,8,3,finish_task,,,,-1,tablet,icon,1094.0,172.0,,,
-2023-03-10 16:01:30.762,,,8,4,select_station,,,,290,tablet,map,561.0,46.0,,,
-2023-03-10 16:01:31.789,,,8,4,show_kpi,,,,290,tablet,icon,91.0,460.0,,,
-2023-03-10 16:01:33.712,,,8,4,select_attr,,,oee,290,tablet,vis,243.0,117.0,1.0,,
-2023-03-10 16:01:56.687,,,8,4,finish_task,,,,-1,tablet,icon,1081.0,159.0,,,
-2023-03-10 16:02:03.137,,,8,5,select_station,,,,260,tablet,map,244.0,287.0,,,
-2023-03-10 16:02:03.966,,,8,5,show_kpi,,,,260,tablet,icon,77.0,463.0,,,
-2023-03-10 16:02:07.416,,,8,5,select_attr,,,partCount,260,tablet,vis,519.0,103.0,1.0,,
-2023-03-10 16:02:34.858,,,8,5,set_slider,,,partCount,260,tablet,vis,,,3.0,10,
-2023-03-10 16:02:44.286,,,8,5,set_slider,,,partCount,260,tablet,vis,,,3.0,12,
-2023-03-10 16:02:52.410,,,8,5,finish_task,,,,-1,tablet,icon,1082.0,208.0,,,
-2023-03-10 19:55:25.955,,,0,1,start_evaluation,,,,-1,tablet,page,,,,,
-2023-03-10 19:55:29.554,,,0,1,finish_task,,,,-1,tablet,icon,1084.0,161.0,,,
-2023-03-10 19:55:32.185,,,0,2,select_station,,,,260,tablet,map,232.0,300.0,,,
-2023-03-10 19:55:33.011,,,0,2,show_filters,,,,260,tablet,icon,85.0,401.0,,,
-2023-03-10 19:55:34.388,,,0,2,show_kpi,,,,260,tablet,icon,81.0,461.0,,,
-2023-03-10 19:55:37.497,,,0,2,finish_task,,,,-1,tablet,icon,1074.0,178.0,,,
-2023-03-10 19:55:46.038,,,0,3,select_station,,,,270,tablet,map,643.0,157.0,,,
-2023-03-10 19:55:46.937,,,0,3,finish_task,,,,-1,tablet,icon,1082.0,174.0,,,
-2023-03-10 19:55:52.148,,,0,4,select_station,,,,290,tablet,map,555.0,67.0,,,
-2023-03-10 19:55:52.995,,,0,4,show_kpi,,,,290,tablet,icon,80.0,467.0,,,
-2023-03-10 19:55:54.368,,,0,4,select_attr,,,oee,290,tablet,vis,238.0,123.0,1.0,,
-2023-03-10 19:55:58.991,,,0,4,set_slider,,,oee,290,tablet,vis,,,3.0,14,
-2023-03-10 19:56:03.451,,,0,4,finish_task,,,,-1,tablet,icon,1093.0,176.0,,,
-2023-03-10 19:56:07.001,,,0,5,select_station,,,,260,tablet,map,223.0,299.0,,,
-2023-03-10 19:56:08.703,,,0,5,show_kpi,,,,260,tablet,icon,86.0,480.0,,,
-2023-03-10 19:56:10.118,,,0,5,select_attr,,,partCount,260,tablet,vis,513.0,142.0,1.0,,
-2023-03-10 19:56:15.542,,,0,5,set_slider,,,partCount,260,tablet,vis,,,3.0,13,
-2023-03-10 19:56:18.531,,,0,5,finish_task,,,,-1,tablet,icon,1082.0,195.0,,,
+timestamp,TASK_CLICK_NUMBER,fullEvent,id,task,event,context,subcontext,attr,station,environment,element,lx,ly,vis_id,value,vis-id,time,time_shift
+2023-03-10 19:09:33.732,1.0,Open: 260,0,1,select_station,,,,260,ar,,,,,,,0.0,
+2023-03-10 19:09:35.606,2.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,0,1,show_cycle,personal,,,,ar,,,,,,,1.874000072479248,1.874000072479248
+2023-03-10 19:09:37.340,3.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,0,1,back,personal,cycle_time_main,,,ar,,,,,,,3.607999801635742,1.7339997291564941
+2023-03-10 19:09:40.271,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,2,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 19:09:42.119,2.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,0,2,show_kpi,personal,,,,ar,,,,,,,1.8479998111724854,1.8479998111724854
+2023-03-10 19:09:45.505,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,3,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 19:09:47.392,2.0,HandMenu/LineMonitoringMenu/FilterButton,0,3,show_filters,,,,,ar,,,,,,,1.8870000839233398,1.8870000839233398
+2023-03-10 19:09:48.245,3.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,0,3,bottleneck,handmenu,,,,ar,,,,,,,2.740000009536743,0.8529999256134033
+2023-03-10 19:09:53.687,4.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,0,3,close,personal,kpi_main,,,ar,,,,,,,8.182000160217285,5.442000150680542
+2023-03-10 19:09:58.024,5.0,HandMenu/LineMonitoringMenu/CancelFilteringButton,0,3,cancel_filter,handmenu,,,,ar,,,,,,,12.519000053405762,4.336999893188477
+2023-03-10 19:10:00.085,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,4,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 19:10:02.625,2.0,HandMenu/LineMonitoringMenu/FilterButton,0,4,show_filters,,,,,ar,,,,,,,2.5399999618530273,2.5399999618530273
+2023-03-10 19:10:03.301,3.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/AllButton,0,4,all,handmenu,,,,ar,,,,,,,3.2159998416900635,0.6759998798370361
+2023-03-10 19:10:03.939,4.0,HandMenu/LineMonitoringMenu/CancelFilteringButton,0,4,cancel_filter,handmenu,,,,ar,,,,,,,3.8540000915527344,0.6380002498626709
+2023-03-10 19:10:04.948,5.0,Open: 290,0,4,select_station,,,,290,ar,,,,,,,4.86299991607666,1.0089998245239258
+2023-03-10 19:10:06.409,6.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,0,4,show_kpi,personal,,,,ar,,,,,,,6.323999881744385,1.4609999656677246
+2023-03-10 19:10:06.993,7.0,PersonalInfo/KPIsMain/Buttons/OEEButton,0,4,select_attr,,,oee,,ar,,,,,,,6.9079999923706055,0.5840001106262207
+2023-03-10 19:10:08.184,8.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar,,,,,,,8.098999977111816,1.190999984741211
+2023-03-10 19:10:09.541,9.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar,,,,,,,9.455999851226807,1.3569998741149902
+2023-03-10 19:10:09.801,10.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar,,,,,,,9.715999841690063,0.25999999046325684
+2023-03-10 19:10:10.434,11.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar,,,,,,,10.348999738693237,0.6329998970031738
+2023-03-10 19:10:12.217,12.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar,,,,,,,12.131999969482422,1.7830002307891846
+2023-03-10 19:10:13.519,13.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar,,,,,,,13.434000015258789,1.3020000457763672
+2023-03-10 19:10:15.971,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,5,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 19:10:18.145,2.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/BackButton,0,5,back,personal,kpi_specific,,,ar,,,,,,,2.1740000247955322,2.1740000247955322
+2023-03-10 19:10:18.848,3.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,0,5,select_attr,,,partCount,,ar,,,,,,,2.877000093460083,0.7030000686645508
+2023-03-10 19:10:21.400,4.0,Open: 260,0,5,select_station,,,,260,ar,,,,,,,5.42900013923645,2.552000045776367
+2023-03-10 19:10:22.545,5.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,0,5,show_kpi,personal,,,,ar,,,,,,,6.573999881744385,1.1449997425079346
+2023-03-10 19:10:23.029,6.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,0,5,select_attr,,,partCount,,ar,,,,,,,7.058000087738037,0.48400020599365234
+2023-03-10 19:10:26.368,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,5,set_slider,,,,,ar,,,,,,,10.397000074386597,3.3389999866485596
+2023-03-10 19:10:31.275,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,6,finish_task,,,,,ar,,,,,,,1678475431.275,
+2023-03-10 17:18:37.697,1.0,Open: 260,1,1,select_station,,,,260,ar,,,,,,,0.0,
+2023-03-10 17:18:43.210,2.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,1,1,show_cycle,personal,,,,ar,,,,,,,5.512999773025513,5.512999773025513
+2023-03-10 17:19:20.401,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,2,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 17:19:31.517,2.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,1,2,back,personal,cycle_time_main,,,ar,,,,,,,11.115999937057495,11.115999937057495
+2023-03-10 17:19:33.175,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,1,2,show_kpi,personal,,,,ar,,,,,,,12.7739999294281,1.6579999923706055
+2023-03-10 17:19:52.694,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,3,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 17:19:58.858,2.0,PersonalInfo/KPIsMain/TitleBar/Buttons/BackButton,1,3,back,personal,kpi_main,,,ar,,,,,,,6.163999557495117,6.163999557495117
+2023-03-10 17:20:12.436,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,4,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 17:20:37.114,2.0,Open: 290,1,4,select_station,,,,290,ar,,,,,,,24.67799973487854,24.67799973487854
+2023-03-10 17:21:05.403,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,1,4,show_kpi,personal,,,,ar,,,,,,,52.967000007629395,28.289000272750854
+2023-03-10 17:21:11.733,4.0,PersonalInfo/KPIsMain/Buttons/OEEButton,1,4,select_attr,,,oee,,ar,,,,,,,59.29699993133545,6.329999923706055
+2023-03-10 17:21:21.428,5.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar,,,,,,,68.99199986457825,9.694999933242798
+2023-03-10 17:21:33.181,6.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar,,,,,,,80.74499988555908,11.753000020980835
+2023-03-10 17:21:45.728,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar,,,,,,,93.29199981689453,12.54699993133545
+2023-03-10 17:22:04.829,8.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar,,,,,,,112.39299988746643,19.1010000705719
+2023-03-10 17:22:08.365,9.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar,,,,,,,115.92899990081787,3.5360000133514404
+2023-03-10 17:22:13.034,10.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar,,,,,,,120.59799981117249,4.668999910354614
+2023-03-10 17:22:40.052,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,5,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 17:22:52.953,2.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/BackButton,1,5,back,personal,kpi_specific,,,ar,,,,,,,12.900999784469604,12.900999784469604
+2023-03-10 17:22:54.124,3.0,PersonalInfo/KPIsMain/TitleBar/Buttons/BackButton,1,5,back,personal,kpi_main,,,ar,,,,,,,14.07200002670288,1.1710002422332764
+2023-03-10 17:23:02.968,4.0,Open: 260,1,5,select_station,,,,260,ar,,,,,,,22.91599988937378,8.843999862670898
+2023-03-10 17:23:27.616,5.0,Open: 270,1,5,select_station,,,,270,ar,,,,,,,47.56399989128113,24.64800000190735
+2023-03-10 17:23:32.439,6.0,Open: 260,1,5,select_station,,,,260,ar,,,,,,,52.38700008392334,4.823000192642212
+2023-03-10 17:23:40.899,7.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,1,5,show_cycle,personal,,,,ar,,,,,,,60.84700012207031,8.460000038146973
+2023-03-10 17:23:43.436,8.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,1,5,back,personal,cycle_time_main,,,ar,,,,,,,63.384000062942505,2.5369999408721924
+2023-03-10 17:23:44.205,9.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,1,5,show_kpi,personal,,,,ar,,,,,,,64.15299987792969,0.7689998149871826
+2023-03-10 17:23:47.489,10.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,1,5,select_attr,,,partCount,,ar,,,,,,,67.43699979782104,3.2839999198913574
+2023-03-10 17:23:53.352,11.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,5,set_slider,,,,,ar,,,,,,,73.29999995231628,5.863000154495239
+2023-03-10 17:24:23.719,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,6,finish_task,,,,,ar,,,,,,,1678469063.719,
+2023-03-10 17:30:46.691,1.0,Open: 260,2,1,select_station,,,,260,ar,,,,,,,0.0,
+2023-03-10 17:30:51.041,2.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,2,1,show_cycle,personal,,,,ar,,,,,,,4.349999904632568,4.349999904632568
+2023-03-10 17:31:07.471,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,2,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 17:31:28.580,2.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,2,2,close,personal,cycle_time_main,,,ar,,,,,,,21.108999967575073,21.108999967575073
+2023-03-10 17:31:30.578,3.0,Open: 260,2,2,select_station,,,,260,ar,,,,,,,23.10699987411499,1.997999906539917
+2023-03-10 17:31:32.334,4.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,2,2,show_kpi,personal,,,,ar,,,,,,,24.86300015449524,1.756000280380249
+2023-03-10 17:32:02.294,5.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,2,2,close,personal,kpi_main,,,ar,,,,,,,54.82300019264221,29.960000038146973
+2023-03-10 17:32:06.279,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,3,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 17:32:24.898,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,4,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 17:32:25.721,2.0,Open: 270,2,4,select_station,,,,270,ar,,,,,,,0.8230001926422119,0.8230001926422119
+2023-03-10 17:32:48.121,3.0,Open: 290,2,4,select_station,,,,290,ar,,,,,,,23.223000288009644,22.40000009536743
+2023-03-10 17:32:58.907,4.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,2,4,close,personal,,,,ar,,,,,,,34.009000301361084,10.78600001335144
+2023-03-10 17:33:03.452,5.0,Open: 290,2,4,select_station,,,,290,ar,,,,,,,38.55400013923645,4.544999837875366
+2023-03-10 17:33:10.831,6.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,2,4,show_kpi,personal,,,,ar,,,,,,,45.933000326156616,7.379000186920166
+2023-03-10 17:33:17.700,7.0,PersonalInfo/KPIsMain/Buttons/OEEButton,2,4,select_attr,,,oee,,ar,,,,,,,52.802000284194946,6.86899995803833
+2023-03-10 17:33:26.829,8.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,2,4,set_slider,,,,,ar,,,,,,,61.93100023269653,9.128999948501587
+2023-03-10 17:33:33.824,9.0,Open: 290,2,4,select_station,,,,290,ar,,,,,,,68.92600011825562,6.994999885559082
+2023-03-10 17:33:37.350,10.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,2,4,close,personal,,,,ar,,,,,,,72.45200037956238,3.5260002613067627
+2023-03-10 17:33:40.643,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,5,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 17:33:50.676,2.0,Open: 290,2,5,select_station,,,,290,ar,,,,,,,10.032999992370605,10.032999992370605
+2023-03-10 17:33:53.515,3.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,2,5,close,personal,,,,ar,,,,,,,12.871999979019165,2.8389999866485596
+2023-03-10 17:33:56.576,4.0,Open: 260,2,5,select_station,,,,260,ar,,,,,,,15.932999849319458,3.060999870300293
+2023-03-10 17:34:05.246,5.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,2,5,show_kpi,personal,,,,ar,,,,,,,24.602999925613403,8.670000076293945
+2023-03-10 17:34:06.583,6.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,2,5,select_attr,,,partCount,,ar,,,,,,,25.94000005722046,1.3370001316070557
+2023-03-10 17:34:39.022,7.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,2,5,close,personal,kpi_specific,,,ar,,,,,,,58.37899994850159,32.43899989128113
+2023-03-10 17:34:44.777,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,6,finish_task,,,,,ar,,,,,,,1678469684.777,
+2023-03-10 09:52:17.844,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,2,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 09:52:32.191,2.0,Open: 260,3,2,select_station,,,,260,ar,,,,,,,14.346999883651733,14.346999883651733
+2023-03-10 09:52:33.801,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,3,2,show_kpi,personal,,,,ar,,,,,,,15.956999778747559,1.6099998950958252
+2023-03-10 09:52:46.026,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,3,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 09:53:01.945,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,4,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 09:53:09.397,2.0,Open: 290,3,4,select_station,,,,290,ar,,,,,,,7.45199990272522,7.45199990272522
+2023-03-10 09:53:26.989,3.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,4,close,personal,,,,ar,,,,,,,25.043999910354614,17.592000007629395
+2023-03-10 09:53:35.927,4.0,Open: 290,3,4,select_station,,,,290,ar,,,,,,,33.98200011253357,8.938000202178955
+2023-03-10 09:53:46.894,5.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,3,4,show_kpi,personal,,,,ar,,,,,,,44.949000120162964,10.967000007629395
+2023-03-10 09:53:48.801,6.0,PersonalInfo/KPIsMain/Buttons/OEEButton,3,4,select_attr,,,oee,,ar,,,,,,,46.85599994659424,1.9069998264312744
+2023-03-10 09:53:52.339,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,,50.39400005340576,3.5380001068115234
+2023-03-10 09:53:52.954,8.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,,51.008999824523926,0.6149997711181641
+2023-03-10 09:53:53.168,9.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,,51.223000049591064,0.21400022506713867
+2023-03-10 09:53:54.353,10.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,,52.407999992370605,1.184999942779541
+2023-03-10 09:53:56.252,11.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,,54.307000160217285,1.8990001678466797
+2023-03-10 09:53:58.940,12.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,,56.99500012397766,2.687999963760376
+2023-03-10 09:54:03.106,13.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,,61.16100001335144,4.165999889373779
+2023-03-10 09:54:08.170,14.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,,66.22499990463257,5.063999891281128
+2023-03-10 09:54:42.287,15.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,,100.34200024604797,34.117000341415405
+2023-03-10 09:54:44.204,16.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,,102.2590000629425,1.9169998168945312
+2023-03-10 09:54:45.917,17.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar,,,,,,,103.97199988365173,1.7129998207092285
+2023-03-10 09:55:09.751,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,5,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 09:55:38.107,2.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,3,5,close,personal,kpi_specific,,,ar,,,,,,,28.35599994659424,28.35599994659424
+2023-03-10 09:55:43.406,3.0,Open: 260,3,5,select_station,,,,260,ar,,,,,,,33.65499997138977,5.299000024795532
+2023-03-10 09:55:47.595,4.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,3,5,show_kpi,personal,,,,ar,,,,,,,37.8439998626709,4.188999891281128
+2023-03-10 09:55:48.480,5.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,3,5,select_attr,,,partCount,,ar,,,,,,,38.728999853134155,0.8849999904632568
+2023-03-10 09:55:54.871,6.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,5,set_slider,,,,,ar,,,,,,,45.11999988555908,6.391000032424927
+2023-03-10 09:55:57.487,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,5,set_slider,,,,,ar,,,,,,,47.73599982261658,2.615999937057495
+2023-03-10 09:56:17.357,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,6,finish_task,,,,,ar,,,,,,,1678442177.3569999,
+2023-03-10 09:56:19.938,2.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,3,6,close,personal,kpi_specific,,,ar,,,,,,,1678442179.938,
+2023-03-10 09:57:05.226,3.0,Open: 290,3,6,select_station,,,,290,ar,,,,,,,1678442225.2259998,
+2023-03-10 09:57:11.357,4.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar,,,,,,,1678442231.3569999,
+2023-03-10 09:57:13.963,5.0,Open: 260,3,6,select_station,,,,260,ar,,,,,,,1678442233.963,
+2023-03-10 09:57:22.808,6.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar,,,,,,,1678442242.808,
+2023-03-10 09:57:26.805,7.0,Open: 260,3,6,select_station,,,,260,ar,,,,,,,1678442246.8049998,
+2023-03-10 09:57:34.472,8.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar,,,,,,,1678442254.472,
+2023-03-10 09:57:48.339,9.0,Open: 260,3,6,select_station,,,,260,ar,,,,,,,1678442268.339,
+2023-03-10 09:57:58.290,10.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar,,,,,,,1678442278.29,
+2023-03-10 09:58:01.105,11.0,Open: 260,3,6,select_station,,,,260,ar,,,,,,,1678442281.105,
+2023-03-10 11:42:37.975,1.0,Open: 260,4,1,select_station,,,,260,ar,,,,,,,0.0,
+2023-03-10 11:42:39.811,2.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,4,1,show_cycle,personal,,,,ar,,,,,,,1.8359999656677246,1.8359999656677246
+2023-03-10 11:42:43.086,3.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,4,1,back,personal,cycle_time_main,,,ar,,,,,,,5.111000061035156,3.2750000953674316
+2023-03-10 11:42:44.464,4.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,4,1,close,personal,,,,ar,,,,,,,6.488999843597412,1.3779997825622559
+2023-03-10 11:42:50.166,5.0,Open: 270,4,1,select_station,,,,270,ar,,,,,,,12.190999984741211,5.702000141143799
+2023-03-10 11:42:51.383,6.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,4,1,show_cycle,personal,,,,ar,,,,,,,13.407999992370605,1.2170000076293945
+2023-03-10 11:42:58.909,7.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,4,1,close,personal,cycle_time_main,,,ar,,,,,,,20.93399977684021,7.5259997844696045
+2023-03-10 11:43:01.250,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,2,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 11:43:10.038,2.0,Open: 260,4,2,select_station,,,,260,ar,,,,,,,8.788000345230103,8.788000345230103
+2023-03-10 11:43:12.092,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,4,2,show_kpi,personal,,,,ar,,,,,,,10.842000246047974,2.053999900817871
+2023-03-10 11:43:25.334,4.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,4,2,close,personal,kpi_main,,,ar,,,,,,,24.0840003490448,13.242000102996826
+2023-03-10 11:43:31.817,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,3,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 11:43:44.135,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,4,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 11:43:55.194,2.0,HandMenu/LineMonitoringMenu/FilterButton,4,4,show_filters,,,,,ar,,,,,,,11.05899977684021,11.05899977684021
+2023-03-10 11:44:01.332,3.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/KPIsButton,4,4,show_kpi,handmenu,,,,ar,,,,,,,17.19700002670288,6.138000249862671
+2023-03-10 11:44:06.134,4.0,Open: 290,4,4,select_station,,,,290,ar,,,,,,,21.999000072479248,4.802000045776367
+2023-03-10 11:44:09.313,5.0,PersonalInfo/KPIsMain/Buttons/OEEButton,4,4,select_attr,,,oee,,ar,,,,,,,25.17799997329712,3.178999900817871
+2023-03-10 11:44:15.733,6.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,4,4,set_slider,,,,,ar,,,,,,,31.598000049591064,6.420000076293945
+2023-03-10 11:44:28.674,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,5,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 11:44:38.818,2.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,4,5,close,personal,kpi_specific,,,ar,,,,,,,10.144000053405762,10.144000053405762
+2023-03-10 11:44:41.469,3.0,Open: 260,4,5,select_station,,,,260,ar,,,,,,,12.795000076293945,2.6510000228881836
+2023-03-10 11:44:41.512,4.0,Open: 260,4,5,select_station,,,,260,ar,,,,,,,12.838000297546387,0.043000221252441406
+2023-03-10 11:44:41.559,5.0,Open: 260,4,5,select_station,,,,260,ar,,,,,,,12.885000228881836,0.04699993133544922
+2023-03-10 11:44:48.938,6.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,4,5,select_attr,,,partCount,,ar,,,,,,,20.264000177383423,7.378999948501587
+2023-03-10 11:44:55.710,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,4,5,set_slider,,,,,ar,,,,,,,27.03600025177002,6.772000074386597
+2023-03-10 11:45:13.168,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,6,finish_task,,,,,ar,,,,,,,1678448713.168,
+2023-03-10 11:45:14.975,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,7,finish_task,,,,,ar,,,,,,,1678448714.9750001,
+2023-03-10 11:45:17.049,2.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/AllButton,4,7,all,handmenu,,,,ar,,,,,,,1678448717.049,
+2023-03-10 11:45:26.373,3.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,4,7,bottleneck,handmenu,,,,ar,,,,,,,1678448726.373,
+2023-03-10 11:46:13.868,4.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,4,7,close,personal,kpi_specific,,,ar,,,,,,,1678448773.868,
+2023-03-10 11:46:20.855,5.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,4,7,bottleneck,handmenu,,,,ar,,,,,,,1678448780.855,
+2023-03-10 11:46:23.139,6.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,4,7,bottleneck,handmenu,,,,ar,,,,,,,1678448783.1390002,
+2023-03-10 11:46:32.078,7.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/CycleTimeButton,4,7,,,,,,ar,,,,,,,1678448792.078,
+2023-03-10 11:46:39.722,8.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/KPIsButton,4,7,show_kpi,handmenu,,,,ar,,,,,,,1678448799.722,
+2023-03-10 11:46:46.828,9.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/CycleTimeButton,4,7,,,,,,ar,,,,,,,1678448806.828,
+2023-03-10 11:46:48.860,10.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/KPIsButton,4,7,show_kpi,handmenu,,,,ar,,,,,,,1678448808.86,
+2023-03-10 11:46:51.220,11.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/CycleTimeButton,4,7,,,,,,ar,,,,,,,1678448811.22,
+2023-03-10 11:46:51.856,12.0,Open: 270,4,7,select_station,,,,270,ar,,,,,,,1678448811.856,
+2023-03-10 11:46:54.562,13.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,4,7,close,personal,cycle_time_main,,,ar,,,,,,,1678448814.5619998,
+2023-03-10 11:46:55.114,14.0,Open: 270,4,7,select_station,,,,270,ar,,,,,,,1678448815.1139998,
+2023-03-10 11:46:56.752,15.0,HandMenu/LineMonitoringMenu/OverviewButton,4,7,overview,,,,,ar,,,,,,,1678448816.752,
+2023-03-10 11:47:03.643,16.0,PersonalInfo/StationsOverview/TitleBar/Buttons/FollowMeButton,4,7,followme,,,,,ar,,,,,,,1678448823.6430001,
+2023-03-10 11:47:09.440,17.0,HandMenu/LineMonitoringMenu/BackButton,4,7,back,handmenu,,,,ar,,,,,,,1678448829.44,
+2023-03-10 11:27:04.911,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,2,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 11:27:27.287,2.0,Open: 260,5,2,select_station,,,,260,ar,,,,,,,22.37600016593933,22.37600016593933
+2023-03-10 11:27:31.726,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,2,show_kpi,personal,,,,ar,,,,,,,26.81500005722046,4.438999891281128
+2023-03-10 11:27:55.396,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,3,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 11:28:02.431,2.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,5,3,close,personal,kpi_main,,,ar,,,,,,,7.0350000858306885,7.0350000858306885
+2023-03-10 11:28:10.748,3.0,Open: 270,5,3,select_station,,,,270,ar,,,,,,,15.351999998092651,8.316999912261963
+2023-03-10 11:28:17.314,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,4,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 11:28:28.267,2.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,4,show_kpi,personal,,,,ar,,,,,,,10.95300006866455,10.95300006866455
+2023-03-10 11:28:51.255,3.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,5,4,close,personal,kpi_main,,,ar,,,,,,,33.94100022315979,22.98800015449524
+2023-03-10 11:28:58.666,4.0,Open: 290,5,4,select_station,,,,290,ar,,,,,,,41.35199999809265,7.410999774932861
+2023-03-10 11:29:13.630,5.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,5,4,close,personal,,,,ar,,,,,,,56.31600022315979,14.964000225067139
+2023-03-10 11:29:15.676,6.0,Open: 290,5,4,select_station,,,,290,ar,,,,,,,58.36200022697449,2.0460000038146973
+2023-03-10 11:29:20.119,7.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,4,show_kpi,personal,,,,ar,,,,,,,62.8050000667572,4.442999839782715
+2023-03-10 11:29:30.076,8.0,PersonalInfo/KPIsMain/Buttons/OEEButton,5,4,select_attr,,,oee,,ar,,,,,,,72.76200008392334,9.957000017166138
+2023-03-10 11:30:28.131,9.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,4,set_slider,,,,,ar,,,,,,,130.81700015068054,58.0550000667572
+2023-03-10 11:30:31.512,10.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,4,set_slider,,,,,ar,,,,,,,134.1980001926422,3.38100004196167
+2023-03-10 11:30:42.947,11.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,5,4,close,personal,kpi_specific,,,ar,,,,,,,145.63300013542175,11.434999942779541
+2023-03-10 11:30:43.711,12.0,Open: 290,5,4,select_station,,,,290,ar,,,,,,,146.3970000743866,0.7639999389648438
+2023-03-10 11:30:46.840,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,5,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 11:31:08.300,2.0,Open: 260,5,5,select_station,,,,260,ar,,,,,,,21.460000038146973,21.460000038146973
+2023-03-10 11:31:25.634,3.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,5,5,close,personal,,,,ar,,,,,,,38.793999910354614,17.33399987220764
+2023-03-10 11:31:29.021,4.0,Open: 260,5,5,select_station,,,,260,ar,,,,,,,42.180999994277954,3.38700008392334
+2023-03-10 11:31:41.622,5.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,5,show_kpi,personal,,,,ar,,,,,,,54.78200030326843,12.601000308990479
+2023-03-10 11:31:47.947,6.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,5,5,select_attr,,,partCount,,ar,,,,,,,61.10700011253357,6.324999809265137
+2023-03-10 11:31:57.313,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar,,,,,,,70.47300004959106,9.365999937057495
+2023-03-10 11:31:58.036,8.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar,,,,,,,71.19600009918213,0.7230000495910645
+2023-03-10 11:31:58.446,9.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar,,,,,,,71.60600018501282,0.4100000858306885
+2023-03-10 11:32:00.069,10.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar,,,,,,,73.22900009155273,1.622999906539917
+2023-03-10 11:32:01.525,11.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar,,,,,,,74.68499994277954,1.4559998512268066
+2023-03-10 11:32:02.166,12.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar,,,,,,,75.32600021362305,0.6410002708435059
+2023-03-10 11:33:30.591,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,6,finish_task,,,,,ar,,,,,,,1678448010.591,
+2023-03-10 15:20:39.625,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,2,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 15:20:49.852,2.0,Open: 260,6,2,select_station,,,,260,ar,,,,,,,10.226999998092651,10.226999998092651
+2023-03-10 15:20:52.942,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,2,show_kpi,personal,,,,ar,,,,,,,13.317000150680542,3.0900001525878906
+2023-03-10 15:21:06.520,4.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,6,2,close,personal,kpi_main,,,ar,,,,,,,26.894999980926514,13.577999830245972
+2023-03-10 15:23:24.547,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,3,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 15:23:42.914,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,4,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 15:23:51.849,2.0,Open: 290,6,4,select_station,,,,290,ar,,,,,,,8.93500018119812,8.93500018119812
+2023-03-10 15:23:54.441,3.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,6,4,show_cycle,personal,,,,ar,,,,,,,11.527000188827515,2.5920000076293945
+2023-03-10 15:23:59.683,4.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,6,4,back,personal,cycle_time_main,,,ar,,,,,,,16.76900029182434,5.242000102996826
+2023-03-10 15:24:01.753,5.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,4,show_kpi,personal,,,,ar,,,,,,,18.83900022506714,2.069999933242798
+2023-03-10 15:24:03.300,6.0,PersonalInfo/KPIsMain/Buttons/OEEButton,6,4,select_attr,,,oee,,ar,,,,,,,20.386000156402588,1.5469999313354492
+2023-03-10 15:24:12.779,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,6,4,set_slider,,,,,ar,,,,,,,29.865000247955322,9.479000091552734
+2023-03-10 15:24:39.944,8.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,6,4,close,personal,kpi_specific,,,ar,,,,,,,57.03000020980835,27.164999961853027
+2023-03-10 15:24:42.900,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,5,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 15:24:59.964,2.0,Open: 260,6,5,select_station,,,,260,ar,,,,,,,17.063999891281128,17.063999891281128
+2023-03-10 15:25:00.184,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,5,show_kpi,personal,,,,ar,,,,,,,17.283999919891357,0.2200000286102295
+2023-03-10 15:25:02.548,4.0,PersonalInfo/KPIsMain/Buttons/PartCountNIOButton,6,5,select_attr,,,partCountNIO,,ar,,,,,,,19.64800000190735,2.364000082015991
+2023-03-10 15:25:08.008,5.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,6,5,set_slider,,,,,ar,,,,,,,25.107999801635742,5.4599997997283936
+2023-03-10 15:25:12.360,6.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,6,5,close,personal,kpi_specific,,,ar,,,,,,,29.459999799728394,4.351999998092651
+2023-03-10 15:25:13.527,7.0,Open: 260,6,5,select_station,,,,260,ar,,,,,,,30.626999855041504,1.1670000553131104
+2023-03-10 15:25:14.868,8.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,5,show_kpi,personal,,,,ar,,,,,,,31.967999935150146,1.3410000801086426
+2023-03-10 15:25:17.184,9.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,6,5,select_attr,,,partCount,,ar,,,,,,,34.28399991989136,2.315999984741211
+2023-03-10 15:25:22.091,10.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,6,5,set_slider,,,,,ar,,,,,,,39.19099998474121,4.9070000648498535
+2023-03-10 15:25:30.094,11.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,6,5,close,personal,kpi_specific,,,ar,,,,,,,47.194000005722046,8.003000020980835
+2023-03-10 15:25:44.879,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,6,finish_task,,,,,ar,,,,,,,1678461944.879,
+2023-03-10 15:55:19.673,1.0,Open: 260,7,1,select_station,,,,260,ar,,,,,,,0.0,
+2023-03-10 15:56:02.394,2.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,7,1,close,personal,,,,ar,,,,,,,42.72099995613098,42.72099995613098
+2023-03-10 15:56:05.439,3.0,Open: 260,7,1,select_station,,,,260,ar,,,,,,,45.766000270843506,3.0450003147125244
+2023-03-10 15:56:05.638,4.0,PersonalInfo/GeneralStationInfo/Buttons/BottleneckButton,7,1,bottleneck,personal,,,,ar,,,,,,,45.96500015258789,0.19899988174438477
+2023-03-10 15:57:01.367,5.0,HandMenu/LineMonitoringMenu/FilterButton,7,1,show_filters,,,,,ar,,,,,,,101.69400024414062,55.729000091552734
+2023-03-10 15:57:06.071,6.0,HandMenu/LineMonitoringMenu/FilterButtonCollection/AllButton,7,1,all,handmenu,,,,ar,,,,,,,106.39800024032593,4.703999996185303
+2023-03-10 15:57:14.431,7.0,HandMenu/LineMonitoringMenu/BackButton,7,1,back,handmenu,,,,ar,,,,,,,114.75800013542175,8.359999895095825
+2023-03-10 15:57:38.087,8.0,HandMenu/MainMenu/ButtonCollection/LineMonitoringButton,7,1,line_monitoring,,,,,ar,,,,,,,138.41400027275085,23.6560001373291
+2023-03-10 15:57:48.561,9.0,Open: 260,7,1,select_station,,,,260,ar,,,,,,,148.8880000114441,10.473999738693237
+2023-03-10 15:57:52.656,10.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,7,1,show_cycle,personal,,,,ar,,,,,,,152.98300004005432,4.0950000286102295
+2023-03-10 15:58:07.662,11.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,7,1,close,personal,cycle_time_main,,,ar,,,,,,,167.98900032043457,15.006000280380249
+2023-03-10 15:58:24.374,12.0,Open: 270,7,1,select_station,,,,270,ar,,,,,,,184.70100021362305,16.711999893188477
+2023-03-10 15:58:30.380,13.0,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,7,1,show_cycle,personal,,,,ar,,,,,,,190.70700025558472,6.00600004196167
+2023-03-10 15:58:34.886,14.0,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,7,1,back,personal,cycle_time_main,,,ar,,,,,,,195.2130002975464,4.50600004196167
+2023-03-10 15:58:38.076,15.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,7,1,close,personal,,,,ar,,,,,,,198.40300011634827,3.18999981880188
+2023-03-10 15:58:55.714,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,2,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 15:59:06.860,2.0,Open: 260,7,2,select_station,,,,260,ar,,,,,,,11.145999908447266,11.145999908447266
+2023-03-10 15:59:07.039,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,7,2,show_kpi,personal,,,,ar,,,,,,,11.325000047683716,0.1790001392364502
+2023-03-10 15:59:27.694,4.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,7,2,close,personal,kpi_main,,,ar,,,,,,,31.980000257492065,20.65500020980835
+2023-03-10 15:59:33.099,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,3,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 15:59:52.297,2.0,Open: 270,7,3,select_station,,,,270,ar,,,,,,,19.197999954223633,19.197999954223633
+2023-03-10 15:59:56.637,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,4,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 16:00:10.164,2.0,Open: 290,7,4,select_station,,,,290,ar,,,,,,,13.527000188827515,13.527000188827515
+2023-03-10 16:00:42.895,3.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,7,4,close,personal,,,,ar,,,,,,,46.25800013542175,32.73099994659424
+2023-03-10 16:00:45.314,4.0,Open: 290,7,4,select_station,,,,290,ar,,,,,,,48.67700004577637,2.4189999103546143
+2023-03-10 16:00:45.499,5.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,7,4,show_kpi,personal,,,,ar,,,,,,,48.86200022697449,0.18500018119812012
+2023-03-10 16:00:57.124,6.0,PersonalInfo/KPIsMain/Buttons/OEEButton,7,4,select_attr,,,oee,,ar,,,,,,,60.48700022697449,11.625
+2023-03-10 16:01:03.594,7.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,7,4,set_slider,,,,,ar,,,,,,,66.95700001716614,6.46999979019165
+2023-03-10 16:01:17.007,8.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,7,4,set_slider,,,,,ar,,,,,,,80.37000012397766,13.413000106811523
+2023-03-10 16:02:40.895,9.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,7,4,close,personal,kpi_specific,,,ar,,,,,,,164.25800013542175,83.88800001144409
+2023-03-10 16:02:43.755,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,5,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 16:02:56.146,2.0,Open: 260,7,5,select_station,,,,260,ar,,,,,,,12.390999794006348,12.390999794006348
+2023-03-10 16:02:57.779,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,7,5,show_kpi,personal,,,,ar,,,,,,,14.0239999294281,1.633000135421753
+2023-03-10 16:02:59.656,4.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,7,5,select_attr,,,partCount,,ar,,,,,,,15.900999784469604,1.876999855041504
+2023-03-10 16:03:26.639,5.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,7,5,set_slider,,,,,ar,,,,,,,42.884000062942505,26.9830002784729
+2023-03-10 16:03:54.183,6.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,7,5,close,personal,kpi_specific,,,ar,,,,,,,70.42799997329712,27.543999910354614
+2023-03-10 16:03:58.399,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,6,finish_task,,,,,ar,,,,,,,1678464238.3990002,
+2023-03-10 16:12:15.450,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,2,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 16:12:42.018,2.0,Open: 260,8,2,select_station,,,,260,ar,,,,,,,26.568000078201294,26.568000078201294
+2023-03-10 16:12:45.941,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,8,2,show_kpi,personal,,,,ar,,,,,,,30.491000175476074,3.9230000972747803
+2023-03-10 16:13:00.679,4.0,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,8,2,close,personal,kpi_main,,,ar,,,,,,,45.22900032997131,14.73800015449524
+2023-03-10 16:13:04.702,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,3,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 16:13:18.381,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,4,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 16:13:32.960,2.0,Open: 290,8,4,select_station,,,,290,ar,,,,,,,14.578999996185303,14.578999996185303
+2023-03-10 16:13:46.582,3.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,8,4,show_kpi,personal,,,,ar,,,,,,,28.200999975204468,13.621999979019165
+2023-03-10 16:13:59.717,4.0,PersonalInfo/KPIsMain/Buttons/OEEButton,8,4,select_attr,,,oee,,ar,,,,,,,41.335999965667725,13.134999990463257
+2023-03-10 16:14:15.461,5.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,8,4,set_slider,,,,,ar,,,,,,,57.079999923706055,15.74399995803833
+2023-03-10 16:14:25.081,6.0,Open: 290,8,4,select_station,,,,290,ar,,,,,,,66.69999980926514,9.619999885559082
+2023-03-10 16:14:29.651,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,5,finish_task,,,,,ar,,,,,,,0.0,
+2023-03-10 16:14:34.729,2.0,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,8,5,close,personal,,,,ar,,,,,,,5.077999830245972,5.077999830245972
+2023-03-10 16:14:55.090,3.0,Open: 260,8,5,select_station,,,,260,ar,,,,,,,25.438999891281128,20.361000061035156
+2023-03-10 16:14:56.452,4.0,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,8,5,show_kpi,personal,,,,ar,,,,,,,26.800999879837036,1.3619999885559082
+2023-03-10 16:14:58.075,5.0,PersonalInfo/KPIsMain/Buttons/PartCountButton,8,5,select_attr,,,partCount,,ar,,,,,,,28.424000024795532,1.623000144958496
+2023-03-10 16:15:08.476,6.0,PersonalInfo/KPIsSpecific/ShiftNumberSlider,8,5,set_slider,,,,,ar,,,,,,,38.825000047683716,10.401000022888184
+2023-03-10 16:15:24.814,7.0,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,8,5,close,personal,kpi_specific,,,ar,,,,,,,55.16300010681152,16.338000059127808
+2023-03-10 16:15:28.150,1.0,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,6,finish_task,,,,,ar,,,,,,,1678464928.15,
+2023-03-09 17:29:00.508,,,1,1,finish_task,,,,-1,tablet,icon,1067.0,171.0,,,,0.0,
+2023-03-09 17:29:06.004,,,1,2,select_station,,,,-1,tablet,list,966.0,293.0,,,,0.0,
+2023-03-09 17:29:06.416,,,1,2,select_station,,,,270,tablet,list,960.0,323.0,,,,0.4119999408721924,0.4119999408721924
+2023-03-09 17:29:09.645,,,1,2,select_station,,,,290,tablet,list,943.0,287.0,,,,3.6410000324249268,3.2290000915527344
+2023-03-09 17:29:10.862,,,1,2,select_station,,,,270,tablet,list,960.0,256.0,,,,4.8580002784729,1.2170002460479736
+2023-03-09 17:29:11.912,,,1,2,select_station,,,,260,tablet,list,942.0,256.0,,,,5.9079999923706055,1.049999713897705
+2023-03-09 17:29:12.466,,,1,2,select_station,,,,-1,tablet,list,938.0,290.0,,,,6.461999893188477,0.5539999008178711
+2023-03-09 17:29:12.858,,,1,2,select_station,,,,270,tablet,list,932.0,323.0,,,,6.853999853134155,0.3919999599456787
+2023-03-09 17:29:14.692,,,1,2,select_station,,,,260,tablet,map,238.0,299.0,,,,8.687999963760376,1.8340001106262207
+2023-03-09 17:29:15.709,,,1,2,select_station,,,,-1,tablet,map,238.0,294.0,,,,9.704999923706055,1.0169999599456787
+2023-03-09 17:29:17.876,,,1,2,select_station,,,,290,tablet,map,561.0,62.0,,,,11.871999979019165,2.1670000553131104
+2023-03-09 17:29:18.124,,,1,2,select_station,,,,270,tablet,map,596.0,150.0,,,,12.120000123977661,0.2480001449584961
+2023-03-09 17:29:19.093,,,1,2,select_station,,,,260,tablet,map,220.0,302.0,,,,13.08899998664856,0.9689998626708984
+2023-03-09 17:29:30.845,,,1,2,show_filters,,,,260,tablet,icon,88.0,399.0,,,,24.841000080108643,11.752000093460083
+2023-03-09 17:29:36.045,,,1,2,show_kpi,,,,260,tablet,icon,85.0,463.0,,,,30.04099988937378,5.199999809265137
+2023-03-09 17:29:43.395,,,1,2,finish_task,,,,-1,tablet,icon,1074.0,180.0,,,,37.39100003242493,7.3500001430511475
+2023-03-09 17:29:49.096,,,1,3,select_station,,,,-1,tablet,list,1023.0,275.0,,,,0.0,
+2023-03-09 17:29:52.730,,,1,3,finish_task,,,,-1,tablet,icon,1077.0,174.0,,,,3.633999824523926,3.633999824523926
+2023-03-09 17:29:57.851,,,1,4,select_station,,,,-1,tablet,list,969.0,303.0,,,,0.0,
+2023-03-09 17:30:00.504,,,1,4,show_kpi,,,,290,tablet,icon,86.0,464.0,,,,2.6529998779296875,2.6529998779296875
+2023-03-09 17:30:06.517,,,1,4,select_attr,,,oee,290,tablet,vis,240.0,126.0,1.0,,,8.66599988937378,6.013000011444092
+2023-03-09 17:30:11.140,,,1,4,set_slider,,,oee,290,tablet,vis,,,3.0,13,,13.289000034332275,4.623000144958496
+2023-03-09 17:30:13.002,,,1,4,set_slider,,,oee,290,tablet,vis,,,3.0,10,,15.150999784469604,1.861999750137329
+2023-03-09 17:30:15.973,,,1,4,set_slider,,,oee,290,tablet,vis,,,3.0,11,,18.121999979019165,2.9710001945495605
+2023-03-09 17:30:28.098,,,1,4,finish_task,,,,-1,tablet,icon,1072.0,165.0,,,,30.246999740600586,12.124999761581421
+2023-03-09 17:30:36.922,,,1,5,select_station,,,,-1,tablet,list,974.0,272.0,,,,0.0,
+2023-03-09 17:31:00.708,,,1,5,show_kpi,,,,260,tablet,icon,87.0,465.0,,,,23.78600001335144,23.78600001335144
+2023-03-09 17:31:02.611,,,1,5,select_attr,,,partCount,260,tablet,vis,519.0,144.0,1.0,,,25.689000129699707,1.9030001163482666
+2023-03-09 17:31:07.731,,,1,5,set_slider,,,partCount,260,tablet,vis,,,3.0,11,,30.80900001525879,5.119999885559082
+2023-03-09 17:31:15.102,,,1,5,finish_task,,,,-1,tablet,icon,1072.0,208.0,,,,38.18000030517578,7.371000289916992
+2023-03-09 17:38:21.409,,,2,1,finish_task,,,,-1,tablet,icon,1079.0,156.0,,,,0.0,
+2023-03-09 17:38:26.808,,,2,2,select_station,,,,-1,tablet,list,1059.0,259.0,,,,0.0,
+2023-03-09 17:38:28.622,,,2,2,show_filters,,,,260,tablet,icon,80.0,397.0,,,,1.814000129699707,1.814000129699707
+2023-03-09 17:38:29.308,,,2,2,show_kpi,,,,260,tablet,icon,75.0,452.0,,,,2.5,0.685999870300293
+2023-03-09 17:38:40.287,,,2,2,finish_task,,,,-1,tablet,icon,1071.0,188.0,,,,13.479000091552734,10.979000091552734
+2023-03-09 17:39:15.308,,,2,3,finish_task,,,,-1,tablet,icon,1073.0,172.0,,,,0.0,
+2023-03-09 17:39:19.462,,,2,4,select_station,,,,-1,tablet,list,1046.0,297.0,,,,0.0,
+2023-03-09 17:39:23.499,,,2,4,show_cycle,,,,290,tablet,icon,141.0,466.0,,,,4.036999940872192,4.036999940872192
+2023-03-09 17:39:25.480,,,2,4,show_kpi,,,,290,tablet,icon,90.0,422.0,,,,6.017999887466431,1.9809999465942383
+2023-03-09 17:39:26.815,,,2,4,select_attr,,,oee,290,tablet,vis,227.0,118.0,1.0,,,7.352999925613403,1.3350000381469727
+2023-03-09 17:39:39.200,,,2,4,finish_task,,,,-1,tablet,icon,1074.0,166.0,,,,19.73799991607666,12.384999990463257
+2023-03-09 17:39:47.421,,,2,5,select_station,,,,-1,tablet,list,1045.0,278.0,,,,0.0,
+2023-03-09 17:39:48.865,,,2,5,show_cycle,,,,260,tablet,icon,139.0,464.0,,,,1.444000005722046,1.444000005722046
+2023-03-09 17:39:50.261,,,2,5,show_kpi,,,,260,tablet,icon,72.0,423.0,,,,2.8399999141693115,1.3959999084472656
+2023-03-09 17:39:51.584,,,2,5,select_attr,,,partCount,260,tablet,vis,531.0,116.0,1.0,,,4.163000106811523,1.323000192642212
+2023-03-09 17:39:59.290,,,2,5,finish_task,,,,-1,tablet,icon,1065.0,205.0,,,,11.86899995803833,7.705999851226807
+2023-03-10 09:43:44.981,,,3,1,start_evaluation,,,,-1,tablet,page,,,,,,0.0,
+2023-03-10 09:44:11.122,,,3,1,select_station,,,,-1,tablet,list,977.0,238.0,,,,26.141000032424927,26.141000032424927
+2023-03-10 09:44:16.481,,,3,1,finish_task,,,,-1,tablet,icon,1093.0,170.0,,,,31.5,5.358999967575073
+2023-03-10 09:44:25.512,,,3,2,select_station,,,,260,tablet,map,220.0,296.0,,,,0.0,
+2023-03-10 09:44:26.261,,,3,2,show_filters,,,,260,tablet,icon,74.0,405.0,,,,0.748999834060669,0.748999834060669
+2023-03-10 09:44:26.876,,,3,2,show_kpi,,,,260,tablet,icon,71.0,476.0,,,,1.363999843597412,0.6150000095367432
+2023-03-10 09:45:12.358,,,3,2,finish_task,,,,-1,tablet,icon,1095.0,186.0,,,,46.84599995613098,45.48200011253357
+2023-03-10 09:45:24.417,,,3,3,finish_task,,,,-1,tablet,icon,1075.0,159.0,,,,0.0,
+2023-03-10 09:45:29.249,,,3,4,select_station,,,,290,tablet,map,558.0,49.0,,,,0.0,
+2023-03-10 09:45:31.145,,,3,4,show_kpi,,,,290,tablet,icon,73.0,453.0,,,,1.8960001468658447,1.8960001468658447
+2023-03-10 09:45:36.366,,,3,4,show_cycle,,,,290,tablet,icon,154.0,542.0,,,,7.117000341415405,5.2210001945495605
+2023-03-10 09:45:40.032,,,3,4,show_kpi,,,,290,tablet,icon,74.0,425.0,,,,10.783000230789185,3.6659998893737793
+2023-03-10 09:45:42.141,,,3,4,select_attr,,,oee,290,tablet,vis,216.0,115.0,1.0,,,12.892000198364258,2.1089999675750732
+2023-03-10 09:45:48.879,,,3,4,set_slider,,,oee,290,tablet,vis,,,3.0,10,,19.630000114440918,6.73799991607666
+2023-03-10 09:46:38.392,,,3,4,finish_task,,,,-1,tablet,icon,1087.0,173.0,,,,69.14300012588501,49.51300001144409
+2023-03-10 09:46:46.746,,,3,5,select_station,,,,260,tablet,map,224.0,300.0,,,,0.0,
+2023-03-10 09:46:47.748,,,3,5,show_kpi,,,,260,tablet,icon,96.0,465.0,,,,1.002000093460083,1.002000093460083
+2023-03-10 09:46:49.024,,,3,5,select_attr,,,partCount,260,tablet,vis,519.0,108.0,1.0,,,2.2780001163482666,1.2760000228881836
+2023-03-10 09:46:55.721,,,3,5,set_slider,,,partCount,260,tablet,vis,,,3.0,9,,8.975000143051147,6.697000026702881
+2023-03-10 09:46:58.292,,,3,5,set_slider,,,partCount,260,tablet,vis,,,3.0,10,,11.546000242233276,2.571000099182129
+2023-03-10 09:47:22.268,,,3,5,finish_task,,,,-1,tablet,icon,1087.0,206.0,,,,35.5220000743866,23.97599983215332
+2023-03-10 11:17:46.660,,,4,1,start_evaluation,,,,-1,tablet,page,,,,,,0.0,
+2023-03-10 11:17:53.578,,,4,1,show_filters,,,,-1,tablet,icon,70.0,387.0,,,,6.917999744415283,6.917999744415283
+2023-03-10 11:17:54.893,,,4,1,show_kpi,,,,-1,tablet,icon,81.0,464.0,,,,8.232999801635742,1.315000057220459
+2023-03-10 11:17:55.648,,,4,1,show_cycle,,,,-1,tablet,icon,149.0,466.0,,,,8.98799991607666,0.755000114440918
+2023-03-10 11:17:56.697,,,4,1,select_station,,,,260,tablet,map,221.0,298.0,,,,10.036999940872192,1.0490000247955322
+2023-03-10 11:17:57.493,,,4,1,show_cycle,,,,260,tablet,icon,143.0,449.0,,,,10.83299994468689,0.7960000038146973
+2023-03-10 11:18:10.801,,,4,1,close_vis,,,,260,tablet,icon,212.0,415.0,,,,24.140999794006348,13.307999849319458
+2023-03-10 11:18:11.670,,,4,1,select_station,,,,270,tablet,map,643.0,153.0,,,,25.009999990463257,0.8690001964569092
+2023-03-10 11:18:12.299,,,4,1,show_cycle,,,,270,tablet,icon,132.0,459.0,,,,25.638999938964844,0.6289999485015869
+2023-03-10 11:18:15.804,,,4,1,show_kpi,,,,270,tablet,icon,69.0,417.0,,,,29.143999814987183,3.504999876022339
+2023-03-10 11:18:17.405,,,4,1,show_cycle,,,,270,tablet,icon,145.0,529.0,,,,30.744999885559082,1.6010000705718994
+2023-03-10 11:18:19.344,,,4,1,close_vis,,,,270,tablet,icon,220.0,420.0,,,,32.68400001525879,1.939000129699707
+2023-03-10 11:18:20.406,,,4,1,select_station,,,,290,tablet,map,550.0,61.0,,,,33.74600005149841,1.062000036239624
+2023-03-10 11:18:21.912,,,4,1,show_cycle,,,,290,tablet,icon,121.0,467.0,,,,35.251999855041504,1.5059998035430908
+2023-03-10 11:18:29.808,,,4,1,select_station,,,,290,tablet,list,906.0,242.0,,,,43.14800000190735,7.896000146865845
+2023-03-10 11:18:31.882,,,4,1,show_kpi,,,,260,tablet,icon,82.0,417.0,,,,45.22199988365173,2.0739998817443848
+2023-03-10 11:18:34.184,,,4,1,show_cycle,,,,260,tablet,icon,144.0,527.0,,,,47.5239999294281,2.302000045776367
+2023-03-10 11:18:42.004,,,4,1,close_vis,,,,260,tablet,icon,200.0,410.0,,,,55.3439998626709,7.819999933242798
+2023-03-10 11:18:42.850,,,4,1,select_station,,,,290,tablet,map,559.0,52.0,,,,56.18999981880188,0.8459999561309814
+2023-03-10 11:18:43.617,,,4,1,show_cycle,,,,290,tablet,icon,133.0,462.0,,,,56.95699977874756,0.7669999599456787
+2023-03-10 11:18:49.617,,,4,1,close_vis,,,,290,tablet,icon,217.0,431.0,,,,62.95699977874756,6.0
+2023-03-10 11:18:50.431,,,4,1,select_station,,,,270,tablet,map,634.0,163.0,,,,63.770999908447266,0.814000129699707
+2023-03-10 11:18:51.035,,,4,1,show_cycle,,,,270,tablet,icon,133.0,459.0,,,,64.375,0.6040000915527344
+2023-03-10 11:18:51.816,,,4,1,close_vis,,,,270,tablet,icon,221.0,432.0,,,,65.15599989891052,0.7809998989105225
+2023-03-10 11:18:52.409,,,4,1,select_station,,,,260,tablet,map,219.0,292.0,,,,65.74899983406067,0.5929999351501465
+2023-03-10 11:18:52.793,,,4,1,show_cycle,,,,260,tablet,icon,153.0,466.0,,,,66.13299989700317,0.3840000629425049
+2023-03-10 11:19:02.559,,,4,1,select_station,,,,260,tablet,list,906.0,274.0,,,,75.8989999294281,9.766000032424927
+2023-03-10 11:19:04.256,,,4,1,select_station,,,,270,tablet,list,888.0,295.0,,,,77.59599995613098,1.6970000267028809
+2023-03-10 11:19:07.764,,,4,1,finish_task,,,,-1,tablet,icon,1075.0,162.0,,,,81.10399985313416,3.507999897003174
+2023-03-10 11:19:12.705,,,4,2,select_station,,,,260,tablet,map,230.0,290.0,,,,0.0,
+2023-03-10 11:19:13.319,,,4,2,show_kpi,,,,260,tablet,icon,85.0,455.0,,,,0.6140000820159912,0.6140000820159912
+2023-03-10 11:19:37.821,,,4,2,finish_task,,,,-1,tablet,icon,1073.0,186.0,,,,25.115999937057495,24.501999855041504
+2023-03-10 11:19:43.982,,,4,3,select_station,,,,270,tablet,map,623.0,182.0,,,,0.0,
+2023-03-10 11:19:45.332,,,4,3,show_kpi,,,,270,tablet,icon,92.0,450.0,,,,1.3499999046325684,1.3499999046325684
+2023-03-10 11:19:46.774,,,4,3,show_cycle,,,,270,tablet,icon,149.0,534.0,,,,2.7920000553131104,1.442000150680542
+2023-03-10 11:19:54.408,,,4,3,close_vis,,,,270,tablet,icon,213.0,437.0,,,,10.425999879837036,7.633999824523926
+2023-03-10 11:20:05.452,,,4,3,select_station,,,,270,tablet,list,1053.0,261.0,,,,21.46999979019165,11.043999910354614
+2023-03-10 11:20:07.180,,,4,3,select_station,,,,-1,tablet,list,1039.0,264.0,,,,23.197999954223633,1.7280001640319824
+2023-03-10 11:20:14.303,,,4,3,finish_task,,,,-1,tablet,icon,1089.0,171.0,,,,30.32099986076355,7.122999906539917
+2023-03-10 11:20:24.561,,,4,4,select_station,,,,290,tablet,map,544.0,48.0,,,,0.0,
+2023-03-10 11:20:27.011,,,4,4,show_kpi,,,,290,tablet,icon,73.0,472.0,,,,2.450000286102295,2.450000286102295
+2023-03-10 11:20:30.268,,,4,4,select_attr,,,oee,290,tablet,vis,146.0,136.0,1.0,,,5.707000017166138,3.2569997310638428
+2023-03-10 11:20:36.531,,,4,4,set_slider,,,oee,290,tablet,vis,,,3.0,11,,11.970000267028809,6.263000249862671
+2023-03-10 11:20:40.708,,,4,4,set_slider,,,oee,290,tablet,vis,,,3.0,10,,16.147000074386597,4.176999807357788
+2023-03-10 11:20:44.513,,,4,4,set_slider,,,oee,290,tablet,vis,,,3.0,14,,19.9520001411438,3.805000066757202
+2023-03-10 11:20:52.216,,,4,4,void_selection,,,,290,tablet,vis,274.0,146.0,,,3.0,27.65500020980835,7.703000068664551
+2023-03-10 11:20:57.439,,,4,4,finish_task,,,,-1,tablet,icon,1083.0,171.0,,,,32.878000259399414,5.2230000495910645
+2023-03-10 11:21:03.626,,,4,5,select_station,,,,260,tablet,map,218.0,295.0,,,,0.0,
+2023-03-10 11:21:05.361,,,4,5,show_kpi,,,,260,tablet,icon,90.0,448.0,,,,1.7349998950958252,1.7349998950958252
+2023-03-10 11:21:09.706,,,4,5,close_vis,,,,260,tablet,icon,226.0,541.0,,,,6.079999923706055,4.3450000286102295
+2023-03-10 11:21:10.337,,,4,5,select_station,,,,-1,tablet,map,226.0,293.0,,,,6.710999965667725,0.6310000419616699
+2023-03-10 11:21:10.708,,,4,5,show_kpi,,,,-1,tablet,icon,94.0,457.0,,,,7.082000017166138,0.3710000514984131
+2023-03-10 11:21:11.765,,,4,5,show_kpi,,,,-1,tablet,icon,85.0,464.0,,,,8.138999938964844,1.056999921798706
+2023-03-10 11:21:12.568,,,4,5,show_kpi,,,,-1,tablet,icon,78.0,468.0,,,,8.942000150680542,0.8030002117156982
+2023-03-10 11:21:13.207,,,4,5,select_station,,,,260,tablet,map,214.0,312.0,,,,9.581000089645386,0.6389999389648438
+2023-03-10 11:21:13.702,,,4,5,show_kpi,,,,260,tablet,icon,80.0,459.0,,,,10.076000213623047,0.49500012397766113
+2023-03-10 11:21:20.830,,,4,5,select_attr,,,partCount,260,tablet,vis,515.0,116.0,1.0,,,17.204000234603882,7.128000020980835
+2023-03-10 11:21:25.508,,,4,5,set_slider,,,partCount,260,tablet,vis,,,3.0,10,,21.881999969482422,4.67799973487854
+2023-03-10 11:21:45.807,,,4,5,finish_task,,,,-1,tablet,icon,1081.0,201.0,,,,42.18100023269653,20.29900026321411
+2023-03-10 11:38:26.891,,,5,1,start_evaluation,,,,-1,tablet,page,,,,,,0.0,
+2023-03-10 11:38:44.245,,,5,1,finish_task,,,,-1,tablet,icon,1077.0,178.0,,,,17.353999853134155,17.353999853134155
+2023-03-10 11:38:48.611,,,5,2,select_station,,,,-1,tablet,list,1101.0,260.0,,,,0.0,
+2023-03-10 11:38:50.074,,,5,2,show_filters,,,,260,tablet,icon,64.0,410.0,,,,1.4629998207092285,1.4629998207092285
+2023-03-10 11:38:51.417,,,5,2,show_kpi,,,,260,tablet,icon,76.0,461.0,,,,2.805999755859375,1.3429999351501465
+2023-03-10 11:39:39.322,,,5,2,finish_task,,,,-1,tablet,icon,1078.0,188.0,,,,50.710999727249146,47.90499997138977
+2023-03-10 11:39:44.579,,,5,3,select_station,,,,-1,tablet,list,1049.0,266.0,,,,0.0,
+2023-03-10 11:39:53.696,,,5,3,finish_task,,,,-1,tablet,icon,1091.0,171.0,,,,9.117000102996826,9.117000102996826
+2023-03-10 11:40:00.566,,,5,4,select_station,,,,-1,tablet,list,1059.0,305.0,,,,0.0,
+2023-03-10 11:40:03.645,,,5,4,show_cycle,,,,290,tablet,icon,141.0,465.0,,,,3.0789997577667236,3.0789997577667236
+2023-03-10 11:40:04.999,,,5,4,show_kpi,,,,290,tablet,icon,85.0,444.0,,,,4.432999849319458,1.3540000915527344
+2023-03-10 11:40:13.024,,,5,4,select_station,,,,290,tablet,list,1080.0,307.0,,,,12.45799970626831,8.024999856948853
+2023-03-10 11:40:13.788,,,5,4,select_station,,,,-1,tablet,list,1075.0,307.0,,,,13.221999883651733,0.7640001773834229
+2023-03-10 11:40:14.176,,,5,4,show_kpi,,,,290,tablet,icon,73.0,469.0,,,,13.609999895095825,0.3880000114440918
+2023-03-10 11:40:17.249,,,5,4,select_attr,,,oee,290,tablet,vis,160.0,144.0,1.0,,,16.68299961090088,3.0729997158050537
+2023-03-10 11:40:21.109,,,5,4,set_slider,,,oee,290,tablet,vis,,,3.0,10,,20.542999744415283,3.8600001335144043
+2023-03-10 11:40:27.621,,,5,4,set_slider,,,oee,290,tablet,vis,,,3.0,15,,27.054999828338623,6.51200008392334
+2023-03-10 11:41:10.653,,,5,4,set_slider,,,oee,290,tablet,vis,,,3.0,36,,70.0869996547699,43.031999826431274
+2023-03-10 11:41:18.421,,,5,4,finish_task,,,,-1,tablet,icon,1079.0,169.0,,,,77.85499978065491,7.76800012588501
+2023-03-10 11:41:25.838,,,5,5,select_station,,,,-1,tablet,list,1049.0,277.0,,,,0.0,
+2023-03-10 11:41:28.837,,,5,5,show_kpi,,,,260,tablet,icon,85.0,457.0,,,,2.998999834060669,2.998999834060669
+2023-03-10 11:41:30.555,,,5,5,select_attr,,,partCount,260,tablet,vis,404.0,128.0,1.0,,,4.7170000076293945,1.7180001735687256
+2023-03-10 11:41:35.140,,,5,5,set_slider,,,partCount,260,tablet,vis,,,3.0,11,,9.302000045776367,4.585000038146973
+2023-03-10 11:41:42.526,,,5,5,finish_task,,,,-1,tablet,icon,1077.0,224.0,,,,16.687999963760376,7.385999917984009
+2023-03-10 15:12:19.191,,,6,1,start_evaluation,,,,-1,tablet,page,,,,,,0.0,
+2023-03-10 15:12:26.057,,,6,1,select_station,,,,260,tablet,map,245.0,291.0,,,,6.865999937057495,6.865999937057495
+2023-03-10 15:12:26.380,,,6,1,show_filters,,,,260,tablet,icon,84.0,383.0,,,,7.189000129699707,0.3230001926422119
+2023-03-10 15:12:28.157,,,6,1,show_kpi,,,,260,tablet,icon,82.0,458.0,,,,8.965999841690063,1.7769997119903564
+2023-03-10 15:12:30.345,,,6,1,show_cycle,,,,260,tablet,icon,147.0,548.0,,,,11.154000043869019,2.188000202178955
+2023-03-10 15:12:32.853,,,6,1,show_filters,,,,260,tablet,icon,80.0,364.0,,,,13.661999940872192,2.507999897003174
+2023-03-10 15:12:34.201,,,6,1,show_filters,,,,260,tablet,icon,73.0,369.0,,,,15.009999990463257,1.3480000495910645
+2023-03-10 15:12:34.828,,,6,1,close_vis,,,,260,tablet,icon,219.0,411.0,,,,15.63700008392334,0.627000093460083
+2023-03-10 15:12:36.745,,,6,1,finish_task,,,,-1,tablet,icon,1084.0,148.0,,,,17.55399990081787,1.9169998168945312
+2023-03-10 15:12:42.047,,,6,2,select_station,,,,260,tablet,map,219.0,305.0,,,,0.0,
+2023-03-10 15:12:43.553,,,6,2,show_kpi,,,,260,tablet,icon,79.0,462.0,,,,1.5059998035430908,1.5059998035430908
+2023-03-10 15:12:55.281,,,6,2,finish_task,,,,-1,tablet,icon,1080.0,180.0,,,,13.233999729156494,11.727999925613403
+2023-03-10 15:13:06.819,,,6,3,finish_task,,,,-1,tablet,icon,1078.0,164.0,,,,0.0,
+2023-03-10 15:13:13.016,,,6,4,select_station,,,,290,tablet,map,527.0,50.0,,,,0.0,
+2023-03-10 15:13:15.361,,,6,4,select_station,,,,-1,tablet,map,552.0,63.0,,,,2.3449997901916504,2.3449997901916504
+2023-03-10 15:13:16.534,,,6,4,show_kpi,,,,-1,tablet,icon,86.0,463.0,,,,3.5180001258850098,1.1730003356933594
+2023-03-10 15:13:17.633,,,6,4,show_kpi,,,,-1,tablet,icon,76.0,457.0,,,,4.616999864578247,1.0989997386932373
+2023-03-10 15:13:19.540,,,6,4,select_station,,,,290,tablet,map,548.0,65.0,,,,6.523999929428101,1.9070000648498535
+2023-03-10 15:13:20.651,,,6,4,select_station,,,,-1,tablet,map,539.0,50.0,,,,7.634999990463257,1.1110000610351562
+2023-03-10 15:13:21.348,,,6,4,select_station,,,,290,tablet,map,543.0,55.0,,,,8.332000017166138,0.6970000267028809
+2023-03-10 15:13:22.209,,,6,4,show_kpi,,,,290,tablet,icon,95.0,451.0,,,,9.192999839782715,0.8609998226165771
+2023-03-10 15:13:45.833,,,6,4,select_attr,,,oee,290,tablet,vis,240.0,105.0,1.0,,,32.81699991226196,23.624000072479248
+2023-03-10 15:13:53.502,,,6,4,finish_task,,,,-1,tablet,icon,1088.0,161.0,,,,40.486000061035156,7.669000148773193
+2023-03-10 15:14:03.622,,,6,5,select_station,,,,260,tablet,map,229.0,297.0,,,,0.0,
+2023-03-10 15:14:07.768,,,6,5,show_kpi,,,,260,tablet,icon,76.0,460.0,,,,4.1459996700286865,4.1459996700286865
+2023-03-10 15:14:13.770,,,6,5,select_attr,,,partCount,260,tablet,vis,516.0,121.0,1.0,,,10.14799976348877,6.002000093460083
+2023-03-10 15:14:19.870,,,6,5,set_slider,,,partCount,260,tablet,vis,,,3.0,10,,16.247999906539917,6.1000001430511475
+2023-03-10 15:14:30.603,,,6,5,finish_task,,,,-1,tablet,icon,1078.0,213.0,,,,26.98099994659424,10.733000040054321
+2023-03-10 16:06:53.864,,,7,1,start_evaluation,,,,-1,tablet,page,,,,,,0.0,
+2023-03-10 16:06:57.965,,,7,1,finish_task,,,,-1,tablet,icon,1080.0,170.0,,,,4.10099983215332,4.10099983215332
+2023-03-10 16:07:02.048,,,7,2,select_station,,,,260,tablet,map,207.0,298.0,,,,0.0,
+2023-03-10 16:07:02.599,,,7,2,show_filters,,,,260,tablet,icon,77.0,402.0,,,,0.5509998798370361,0.5509998798370361
+2023-03-10 16:07:03.248,,,7,2,show_kpi,,,,260,tablet,icon,82.0,475.0,,,,1.1999998092651367,0.6489999294281006
+2023-03-10 16:07:03.946,,,7,2,show_filters,,,,260,tablet,icon,78.0,463.0,,,,1.8979997634887695,0.6979999542236328
+2023-03-10 16:07:12.334,,,7,2,finish_task,,,,-1,tablet,icon,1078.0,177.0,,,,10.28600001335144,8.388000249862671
+2023-03-10 16:07:26.229,,,7,3,finish_task,,,,-1,tablet,icon,1080.0,165.0,,,,0.0,
+2023-03-10 16:07:29.505,,,7,4,select_station,,,,290,tablet,map,555.0,35.0,,,,0.0,
+2023-03-10 16:07:30.147,,,7,4,show_filters,,,,290,tablet,icon,80.0,396.0,,,,0.6420001983642578,0.6420001983642578
+2023-03-10 16:07:30.823,,,7,4,show_kpi,,,,290,tablet,icon,75.0,441.0,,,,1.318000078201294,0.6759998798370361
+2023-03-10 16:07:36.662,,,7,4,select_attr,,,oee,290,tablet,vis,153.0,116.0,1.0,,,7.157000303268433,5.839000225067139
+2023-03-10 16:07:40.566,,,7,4,set_slider,,,oee,290,tablet,vis,,,3.0,11,,11.061000347137451,3.9040000438690186
+2023-03-10 16:07:54.534,,,7,4,finish_task,,,,-1,tablet,icon,1074.0,168.0,,,,25.029000282287598,13.967999935150146
+2023-03-10 16:07:59.330,,,7,5,show_kpi,,,,-1,tablet,icon,77.0,460.0,,,,0.0,
+2023-03-10 16:08:02.383,,,7,5,select_station,,,,260,tablet,map,223.0,295.0,,,,3.0530002117156982,3.0530002117156982
+2023-03-10 16:08:02.925,,,7,5,show_kpi,,,,260,tablet,icon,90.0,456.0,,,,3.5950000286102295,0.5419998168945312
+2023-03-10 16:08:07.524,,,7,5,select_attr,,,partCount,260,tablet,vis,500.0,126.0,1.0,,,8.194000005722046,4.598999977111816
+2023-03-10 16:08:13.144,,,7,5,set_slider,,,partCount,260,tablet,vis,,,3.0,10,,13.814000129699707,5.620000123977661
+2023-03-10 16:08:26.857,,,7,5,finish_task,,,,-1,tablet,icon,1084.0,200.0,,,,27.526999950408936,13.712999820709229
+2023-03-10 16:00:09.818,,,8,1,start_evaluation,,,,-1,tablet,page,,,,,,0.0,
+2023-03-10 16:00:22.776,,,8,1,select_station,,,,260,tablet,map,236.0,310.0,,,,12.958000183105469,12.958000183105469
+2023-03-10 16:00:27.495,,,8,1,finish_task,,,,-1,tablet,icon,1097.0,165.0,,,,17.677000284194946,4.7190001010894775
+2023-03-10 16:00:38.878,,,8,2,select_station,,,,260,tablet,map,220.0,314.0,,,,0.0,
+2023-03-10 16:00:39.710,,,8,2,show_filters,,,,260,tablet,icon,76.0,398.0,,,,0.8320000171661377,0.8320000171661377
+2023-03-10 16:00:40.682,,,8,2,show_kpi,,,,260,tablet,icon,69.0,463.0,,,,1.803999900817871,0.9719998836517334
+2023-03-10 16:01:07.755,,,8,2,finish_task,,,,-1,tablet,icon,1083.0,194.0,,,,28.877000093460083,27.073000192642212
+2023-03-10 16:01:24.394,,,8,3,finish_task,,,,-1,tablet,icon,1094.0,172.0,,,,0.0,
+2023-03-10 16:01:30.762,,,8,4,select_station,,,,290,tablet,map,561.0,46.0,,,,0.0,
+2023-03-10 16:01:31.789,,,8,4,show_kpi,,,,290,tablet,icon,91.0,460.0,,,,1.0270001888275146,1.0270001888275146
+2023-03-10 16:01:33.712,,,8,4,select_attr,,,oee,290,tablet,vis,243.0,117.0,1.0,,,2.950000047683716,1.9229998588562012
+2023-03-10 16:01:56.687,,,8,4,finish_task,,,,-1,tablet,icon,1081.0,159.0,,,,25.925000190734863,22.975000143051147
+2023-03-10 16:02:03.137,,,8,5,select_station,,,,260,tablet,map,244.0,287.0,,,,0.0,
+2023-03-10 16:02:03.966,,,8,5,show_kpi,,,,260,tablet,icon,77.0,463.0,,,,0.8290002346038818,0.8290002346038818
+2023-03-10 16:02:07.416,,,8,5,select_attr,,,partCount,260,tablet,vis,519.0,103.0,1.0,,,4.2790000438690186,3.4499998092651367
+2023-03-10 16:02:34.858,,,8,5,set_slider,,,partCount,260,tablet,vis,,,3.0,10,,31.72099995613098,27.441999912261963
+2023-03-10 16:02:44.286,,,8,5,set_slider,,,partCount,260,tablet,vis,,,3.0,12,,41.14900016784668,9.428000211715698
+2023-03-10 16:02:52.410,,,8,5,finish_task,,,,-1,tablet,icon,1082.0,208.0,,,,49.27300000190735,8.123999834060669
+2023-03-10 19:55:25.955,,,0,1,start_evaluation,,,,-1,tablet,page,,,,,,0.0,
+2023-03-10 19:55:29.554,,,0,1,finish_task,,,,-1,tablet,icon,1084.0,161.0,,,,3.5989997386932373,3.5989997386932373
+2023-03-10 19:55:32.185,,,0,2,select_station,,,,260,tablet,map,232.0,300.0,,,,0.0,
+2023-03-10 19:55:33.011,,,0,2,show_filters,,,,260,tablet,icon,85.0,401.0,,,,0.8260002136230469,0.8260002136230469
+2023-03-10 19:55:34.388,,,0,2,show_kpi,,,,260,tablet,icon,81.0,461.0,,,,2.203000068664551,1.376999855041504
+2023-03-10 19:55:37.497,,,0,2,finish_task,,,,-1,tablet,icon,1074.0,178.0,,,,5.312000036239624,3.1089999675750732
+2023-03-10 19:55:46.038,,,0,3,select_station,,,,270,tablet,map,643.0,157.0,,,,0.0,
+2023-03-10 19:55:46.937,,,0,3,finish_task,,,,-1,tablet,icon,1082.0,174.0,,,,0.8989999294281006,0.8989999294281006
+2023-03-10 19:55:52.148,,,0,4,select_station,,,,290,tablet,map,555.0,67.0,,,,0.0,
+2023-03-10 19:55:52.995,,,0,4,show_kpi,,,,290,tablet,icon,80.0,467.0,,,,0.8470001220703125,0.8470001220703125
+2023-03-10 19:55:54.368,,,0,4,select_attr,,,oee,290,tablet,vis,238.0,123.0,1.0,,,2.2200000286102295,1.372999906539917
+2023-03-10 19:55:58.991,,,0,4,set_slider,,,oee,290,tablet,vis,,,3.0,14,,6.843000173568726,4.623000144958496
+2023-03-10 19:56:03.451,,,0,4,finish_task,,,,-1,tablet,icon,1093.0,176.0,,,,11.30299997329712,4.4599997997283936
+2023-03-10 19:56:07.001,,,0,5,select_station,,,,260,tablet,map,223.0,299.0,,,,0.0,
+2023-03-10 19:56:08.703,,,0,5,show_kpi,,,,260,tablet,icon,86.0,480.0,,,,1.7020001411437988,1.7020001411437988
+2023-03-10 19:56:10.118,,,0,5,select_attr,,,partCount,260,tablet,vis,513.0,142.0,1.0,,,3.117000102996826,1.4149999618530273
+2023-03-10 19:56:15.542,,,0,5,set_slider,,,partCount,260,tablet,vis,,,3.0,13,,8.541000127792358,5.424000024795532
+2023-03-10 19:56:18.531,,,0,5,finish_task,,,,-1,tablet,icon,1082.0,195.0,,,,11.53000020980835,2.989000082015991

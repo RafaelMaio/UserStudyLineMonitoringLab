@@ -1,281 +1,281 @@
-ID_PARTICIPANTE,TASK_NUMBER,time,TASK_CLICK_NUMBER,fullEvent,id,task,event,context,subcontext,attr,station,environment
-0,1,2023-03-10 19:09:33.732,1,Open: 260,0,1,select_station,,,,260,ar
-0,1,2023-03-10 19:09:35.606,2,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,0,1,show_cycle,personal,,,,ar
-0,1,2023-03-10 19:09:37.340,3,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,0,1,back,personal,cycle_time_main,,,ar
-0,2,2023-03-10 19:09:40.271,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,2,finish_task,,,,,ar
-0,2,2023-03-10 19:09:42.119,2,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,0,2,show_kpi,personal,,,,ar
-0,3,2023-03-10 19:09:45.505,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,3,finish_task,,,,,ar
-0,3,2023-03-10 19:09:47.392,2,HandMenu/LineMonitoringMenu/FilterButton,0,3,show_filters,,,,,ar
-0,3,2023-03-10 19:09:48.245,3,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,0,3,bottleneck,handmenu,,,,ar
-0,3,2023-03-10 19:09:53.687,4,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,0,3,close,personal,kpi_main,,,ar
-0,3,2023-03-10 19:09:58.024,5,HandMenu/LineMonitoringMenu/CancelFilteringButton,0,3,cancel_filter,handmenu,,,,ar
-0,4,2023-03-10 19:10:00.085,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,4,finish_task,,,,,ar
-0,4,2023-03-10 19:10:02.625,2,HandMenu/LineMonitoringMenu/FilterButton,0,4,show_filters,,,,,ar
-0,4,2023-03-10 19:10:03.301,3,HandMenu/LineMonitoringMenu/FilterButtonCollection/AllButton,0,4,all,handmenu,,,,ar
-0,4,2023-03-10 19:10:03.939,4,HandMenu/LineMonitoringMenu/CancelFilteringButton,0,4,cancel_filter,handmenu,,,,ar
-0,4,2023-03-10 19:10:04.948,5,Open: 290,0,4,select_station,,,,290,ar
-0,4,2023-03-10 19:10:06.409,6,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,0,4,show_kpi,personal,,,,ar
-0,4,2023-03-10 19:10:06.993,7,PersonalInfo/KPIsMain/Buttons/OEEButton,0,4,select_attr,,,oee,,ar
-0,4,2023-03-10 19:10:08.184,8,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar
-0,4,2023-03-10 19:10:09.541,9,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar
-0,4,2023-03-10 19:10:09.801,10,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar
-0,4,2023-03-10 19:10:10.434,11,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar
-0,4,2023-03-10 19:10:12.217,12,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar
-0,4,2023-03-10 19:10:13.519,13,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar
-0,5,2023-03-10 19:10:15.971,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,5,finish_task,,,,,ar
-0,5,2023-03-10 19:10:18.145,2,PersonalInfo/KPIsSpecific/TitleBar/Buttons/BackButton,0,5,back,personal,kpi_specific,,,ar
-0,5,2023-03-10 19:10:18.848,3,PersonalInfo/KPIsMain/Buttons/PartCountButton,0,5,select_attr,,,partCount,,ar
-0,5,2023-03-10 19:10:21.400,4,Open: 260,0,5,select_station,,,,260,ar
-0,5,2023-03-10 19:10:22.545,5,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,0,5,show_kpi,personal,,,,ar
-0,5,2023-03-10 19:10:23.029,6,PersonalInfo/KPIsMain/Buttons/PartCountButton,0,5,select_attr,,,partCount,,ar
-0,5,2023-03-10 19:10:26.368,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,5,set_slider,,,,,ar
-0,6,2023-03-10 19:10:31.275,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,6,finish_task,,,,,ar
-1,1,2023-03-10 17:18:37.697,1,Open: 260,1,1,select_station,,,,260,ar
-1,1,2023-03-10 17:18:43.210,2,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,1,1,show_cycle,personal,,,,ar
-1,2,2023-03-10 17:19:20.401,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,2,finish_task,,,,,ar
-1,2,2023-03-10 17:19:31.517,2,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,1,2,back,personal,cycle_time_main,,,ar
-1,2,2023-03-10 17:19:33.175,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,1,2,show_kpi,personal,,,,ar
-1,3,2023-03-10 17:19:52.694,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,3,finish_task,,,,,ar
-1,3,2023-03-10 17:19:58.858,2,PersonalInfo/KPIsMain/TitleBar/Buttons/BackButton,1,3,back,personal,kpi_main,,,ar
-1,4,2023-03-10 17:20:12.436,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,4,finish_task,,,,,ar
-1,4,2023-03-10 17:20:37.114,2,Open: 290,1,4,select_station,,,,290,ar
-1,4,2023-03-10 17:21:05.403,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,1,4,show_kpi,personal,,,,ar
-1,4,2023-03-10 17:21:11.733,4,PersonalInfo/KPIsMain/Buttons/OEEButton,1,4,select_attr,,,oee,,ar
-1,4,2023-03-10 17:21:21.428,5,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar
-1,4,2023-03-10 17:21:33.181,6,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar
-1,4,2023-03-10 17:21:45.728,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar
-1,4,2023-03-10 17:22:04.829,8,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar
-1,4,2023-03-10 17:22:08.365,9,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar
-1,4,2023-03-10 17:22:13.034,10,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar
-1,5,2023-03-10 17:22:40.052,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,5,finish_task,,,,,ar
-1,5,2023-03-10 17:22:52.953,2,PersonalInfo/KPIsSpecific/TitleBar/Buttons/BackButton,1,5,back,personal,kpi_specific,,,ar
-1,5,2023-03-10 17:22:54.124,3,PersonalInfo/KPIsMain/TitleBar/Buttons/BackButton,1,5,back,personal,kpi_main,,,ar
-1,5,2023-03-10 17:23:02.968,4,Open: 260,1,5,select_station,,,,260,ar
-1,5,2023-03-10 17:23:27.616,5,Open: 270,1,5,select_station,,,,270,ar
-1,5,2023-03-10 17:23:32.439,6,Open: 260,1,5,select_station,,,,260,ar
-1,5,2023-03-10 17:23:40.899,7,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,1,5,show_cycle,personal,,,,ar
-1,5,2023-03-10 17:23:43.436,8,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,1,5,back,personal,cycle_time_main,,,ar
-1,5,2023-03-10 17:23:44.205,9,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,1,5,show_kpi,personal,,,,ar
-1,5,2023-03-10 17:23:47.489,10,PersonalInfo/KPIsMain/Buttons/PartCountButton,1,5,select_attr,,,partCount,,ar
-1,5,2023-03-10 17:23:53.352,11,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,5,set_slider,,,,,ar
-1,6,2023-03-10 17:24:23.719,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,6,finish_task,,,,,ar
-2,1,2023-03-10 17:30:46.691,1,Open: 260,2,1,select_station,,,,260,ar
-2,1,2023-03-10 17:30:51.041,2,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,2,1,show_cycle,personal,,,,ar
-2,2,2023-03-10 17:31:07.471,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,2,finish_task,,,,,ar
-2,2,2023-03-10 17:31:28.580,2,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,2,2,close,personal,cycle_time_main,,,ar
-2,2,2023-03-10 17:31:30.578,3,Open: 260,2,2,select_station,,,,260,ar
-2,2,2023-03-10 17:31:32.334,4,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,2,2,show_kpi,personal,,,,ar
-2,2,2023-03-10 17:32:02.294,5,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,2,2,close,personal,kpi_main,,,ar
-2,3,2023-03-10 17:32:06.279,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,3,finish_task,,,,,ar
-2,4,2023-03-10 17:32:24.898,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,4,finish_task,,,,,ar
-2,4,2023-03-10 17:32:25.721,2,Open: 270,2,4,select_station,,,,270,ar
-2,4,2023-03-10 17:32:48.121,3,Open: 290,2,4,select_station,,,,290,ar
-2,4,2023-03-10 17:32:58.907,4,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,2,4,close,personal,,,,ar
-2,4,2023-03-10 17:33:03.452,5,Open: 290,2,4,select_station,,,,290,ar
-2,4,2023-03-10 17:33:10.831,6,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,2,4,show_kpi,personal,,,,ar
-2,4,2023-03-10 17:33:17.700,7,PersonalInfo/KPIsMain/Buttons/OEEButton,2,4,select_attr,,,oee,,ar
-2,4,2023-03-10 17:33:26.829,8,PersonalInfo/KPIsSpecific/ShiftNumberSlider,2,4,set_slider,,,,,ar
-2,4,2023-03-10 17:33:33.824,9,Open: 290,2,4,select_station,,,,290,ar
-2,4,2023-03-10 17:33:37.350,10,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,2,4,close,personal,,,,ar
-2,5,2023-03-10 17:33:40.643,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,5,finish_task,,,,,ar
-2,5,2023-03-10 17:33:50.676,2,Open: 290,2,5,select_station,,,,290,ar
-2,5,2023-03-10 17:33:53.515,3,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,2,5,close,personal,,,,ar
-2,5,2023-03-10 17:33:56.576,4,Open: 260,2,5,select_station,,,,260,ar
-2,5,2023-03-10 17:34:05.246,5,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,2,5,show_kpi,personal,,,,ar
-2,5,2023-03-10 17:34:06.583,6,PersonalInfo/KPIsMain/Buttons/PartCountButton,2,5,select_attr,,,partCount,,ar
-2,5,2023-03-10 17:34:39.022,7,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,2,5,close,personal,kpi_specific,,,ar
-2,6,2023-03-10 17:34:44.777,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,6,finish_task,,,,,ar
-3,2,2023-03-10 09:52:17.844,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,2,finish_task,,,,,ar
-3,2,2023-03-10 09:52:32.191,2,Open: 260,3,2,select_station,,,,260,ar
-3,2,2023-03-10 09:52:33.801,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,3,2,show_kpi,personal,,,,ar
-3,3,2023-03-10 09:52:46.026,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,3,finish_task,,,,,ar
-3,4,2023-03-10 09:53:01.945,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,4,finish_task,,,,,ar
-3,4,2023-03-10 09:53:09.397,2,Open: 290,3,4,select_station,,,,290,ar
-3,4,2023-03-10 09:53:26.989,3,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,4,close,personal,,,,ar
-3,4,2023-03-10 09:53:35.927,4,Open: 290,3,4,select_station,,,,290,ar
-3,4,2023-03-10 09:53:46.894,5,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,3,4,show_kpi,personal,,,,ar
-3,4,2023-03-10 09:53:48.801,6,PersonalInfo/KPIsMain/Buttons/OEEButton,3,4,select_attr,,,oee,,ar
-3,4,2023-03-10 09:53:52.339,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
-3,4,2023-03-10 09:53:52.954,8,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
-3,4,2023-03-10 09:53:53.168,9,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
-3,4,2023-03-10 09:53:54.353,10,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
-3,4,2023-03-10 09:53:56.252,11,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
-3,4,2023-03-10 09:53:58.940,12,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
-3,4,2023-03-10 09:54:03.106,13,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
-3,4,2023-03-10 09:54:08.170,14,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
-3,4,2023-03-10 09:54:42.287,15,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
-3,4,2023-03-10 09:54:44.204,16,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
-3,4,2023-03-10 09:54:45.917,17,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
-3,5,2023-03-10 09:55:09.751,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,5,finish_task,,,,,ar
-3,5,2023-03-10 09:55:38.107,2,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,3,5,close,personal,kpi_specific,,,ar
-3,5,2023-03-10 09:55:43.406,3,Open: 260,3,5,select_station,,,,260,ar
-3,5,2023-03-10 09:55:47.595,4,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,3,5,show_kpi,personal,,,,ar
-3,5,2023-03-10 09:55:48.480,5,PersonalInfo/KPIsMain/Buttons/PartCountButton,3,5,select_attr,,,partCount,,ar
-3,5,2023-03-10 09:55:54.871,6,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,5,set_slider,,,,,ar
-3,5,2023-03-10 09:55:57.487,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,5,set_slider,,,,,ar
-3,6,2023-03-10 09:56:17.357,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,6,finish_task,,,,,ar
-3,6,2023-03-10 09:56:19.938,2,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,3,6,close,personal,kpi_specific,,,ar
-3,6,2023-03-10 09:57:05.226,3,Open: 290,3,6,select_station,,,,290,ar
-3,6,2023-03-10 09:57:11.357,4,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar
-3,6,2023-03-10 09:57:13.963,5,Open: 260,3,6,select_station,,,,260,ar
-3,6,2023-03-10 09:57:22.808,6,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar
-3,6,2023-03-10 09:57:26.805,7,Open: 260,3,6,select_station,,,,260,ar
-3,6,2023-03-10 09:57:34.472,8,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar
-3,6,2023-03-10 09:57:48.339,9,Open: 260,3,6,select_station,,,,260,ar
-3,6,2023-03-10 09:57:58.290,10,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar
-3,6,2023-03-10 09:58:01.105,11,Open: 260,3,6,select_station,,,,260,ar
-4,1,2023-03-10 11:42:37.975,1,Open: 260,4,1,select_station,,,,260,ar
-4,1,2023-03-10 11:42:39.811,2,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,4,1,show_cycle,personal,,,,ar
-4,1,2023-03-10 11:42:43.086,3,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,4,1,back,personal,cycle_time_main,,,ar
-4,1,2023-03-10 11:42:44.464,4,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,4,1,close,personal,,,,ar
-4,1,2023-03-10 11:42:50.166,5,Open: 270,4,1,select_station,,,,270,ar
-4,1,2023-03-10 11:42:51.383,6,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,4,1,show_cycle,personal,,,,ar
-4,1,2023-03-10 11:42:58.909,7,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,4,1,close,personal,cycle_time_main,,,ar
-4,2,2023-03-10 11:43:01.250,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,2,finish_task,,,,,ar
-4,2,2023-03-10 11:43:10.038,2,Open: 260,4,2,select_station,,,,260,ar
-4,2,2023-03-10 11:43:12.092,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,4,2,show_kpi,personal,,,,ar
-4,2,2023-03-10 11:43:25.334,4,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,4,2,close,personal,kpi_main,,,ar
-4,3,2023-03-10 11:43:31.817,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,3,finish_task,,,,,ar
-4,4,2023-03-10 11:43:44.135,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,4,finish_task,,,,,ar
-4,4,2023-03-10 11:43:55.194,2,HandMenu/LineMonitoringMenu/FilterButton,4,4,show_filters,,,,,ar
-4,4,2023-03-10 11:44:01.332,3,HandMenu/LineMonitoringMenu/FilterButtonCollection/KPIsButton,4,4,show_kpi,handmenu,,,,ar
-4,4,2023-03-10 11:44:06.134,4,Open: 290,4,4,select_station,,,,290,ar
-4,4,2023-03-10 11:44:09.313,5,PersonalInfo/KPIsMain/Buttons/OEEButton,4,4,select_attr,,,oee,,ar
-4,4,2023-03-10 11:44:15.733,6,PersonalInfo/KPIsSpecific/ShiftNumberSlider,4,4,set_slider,,,,,ar
-4,5,2023-03-10 11:44:28.674,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,5,finish_task,,,,,ar
-4,5,2023-03-10 11:44:38.818,2,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,4,5,close,personal,kpi_specific,,,ar
-4,5,2023-03-10 11:44:41.469,3,Open: 260,4,5,select_station,,,,260,ar
-4,5,2023-03-10 11:44:41.512,4,Open: 260,4,5,select_station,,,,260,ar
-4,5,2023-03-10 11:44:41.559,5,Open: 260,4,5,select_station,,,,260,ar
-4,5,2023-03-10 11:44:48.938,6,PersonalInfo/KPIsMain/Buttons/PartCountButton,4,5,select_attr,,,partCount,,ar
-4,5,2023-03-10 11:44:55.710,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,4,5,set_slider,,,,,ar
-4,6,2023-03-10 11:45:13.168,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,6,finish_task,,,,,ar
-4,7,2023-03-10 11:45:14.975,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,7,finish_task,,,,,ar
-4,7,2023-03-10 11:45:17.049,2,HandMenu/LineMonitoringMenu/FilterButtonCollection/AllButton,4,7,all,handmenu,,,,ar
-4,7,2023-03-10 11:45:26.373,3,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,4,7,bottleneck,handmenu,,,,ar
-4,7,2023-03-10 11:46:13.868,4,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,4,7,close,personal,kpi_specific,,,ar
-4,7,2023-03-10 11:46:20.855,5,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,4,7,bottleneck,handmenu,,,,ar
-4,7,2023-03-10 11:46:23.139,6,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,4,7,bottleneck,handmenu,,,,ar
-4,7,2023-03-10 11:46:32.078,7,HandMenu/LineMonitoringMenu/FilterButtonCollection/CycleTimeButton,4,7,,,,,,ar
-4,7,2023-03-10 11:46:39.722,8,HandMenu/LineMonitoringMenu/FilterButtonCollection/KPIsButton,4,7,show_kpi,handmenu,,,,ar
-4,7,2023-03-10 11:46:46.828,9,HandMenu/LineMonitoringMenu/FilterButtonCollection/CycleTimeButton,4,7,,,,,,ar
-4,7,2023-03-10 11:46:48.860,10,HandMenu/LineMonitoringMenu/FilterButtonCollection/KPIsButton,4,7,show_kpi,handmenu,,,,ar
-4,7,2023-03-10 11:46:51.220,11,HandMenu/LineMonitoringMenu/FilterButtonCollection/CycleTimeButton,4,7,,,,,,ar
-4,7,2023-03-10 11:46:51.856,12,Open: 270,4,7,select_station,,,,270,ar
-4,7,2023-03-10 11:46:54.562,13,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,4,7,close,personal,cycle_time_main,,,ar
-4,7,2023-03-10 11:46:55.114,14,Open: 270,4,7,select_station,,,,270,ar
-4,7,2023-03-10 11:46:56.752,15,HandMenu/LineMonitoringMenu/OverviewButton,4,7,overview,,,,,ar
-4,7,2023-03-10 11:47:03.643,16,PersonalInfo/StationsOverview/TitleBar/Buttons/FollowMeButton,4,7,followme,,,,,ar
-4,7,2023-03-10 11:47:09.440,17,HandMenu/LineMonitoringMenu/BackButton,4,7,back,handmenu,,,,ar
-5,2,2023-03-10 11:27:04.911,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,2,finish_task,,,,,ar
-5,2,2023-03-10 11:27:27.287,2,Open: 260,5,2,select_station,,,,260,ar
-5,2,2023-03-10 11:27:31.726,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,2,show_kpi,personal,,,,ar
-5,3,2023-03-10 11:27:55.396,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,3,finish_task,,,,,ar
-5,3,2023-03-10 11:28:02.431,2,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,5,3,close,personal,kpi_main,,,ar
-5,3,2023-03-10 11:28:10.748,3,Open: 270,5,3,select_station,,,,270,ar
-5,4,2023-03-10 11:28:17.314,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,4,finish_task,,,,,ar
-5,4,2023-03-10 11:28:28.267,2,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,4,show_kpi,personal,,,,ar
-5,4,2023-03-10 11:28:51.255,3,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,5,4,close,personal,kpi_main,,,ar
-5,4,2023-03-10 11:28:58.666,4,Open: 290,5,4,select_station,,,,290,ar
-5,4,2023-03-10 11:29:13.630,5,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,5,4,close,personal,,,,ar
-5,4,2023-03-10 11:29:15.676,6,Open: 290,5,4,select_station,,,,290,ar
-5,4,2023-03-10 11:29:20.119,7,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,4,show_kpi,personal,,,,ar
-5,4,2023-03-10 11:29:30.076,8,PersonalInfo/KPIsMain/Buttons/OEEButton,5,4,select_attr,,,oee,,ar
-5,4,2023-03-10 11:30:28.131,9,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,4,set_slider,,,,,ar
-5,4,2023-03-10 11:30:31.512,10,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,4,set_slider,,,,,ar
-5,4,2023-03-10 11:30:42.947,11,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,5,4,close,personal,kpi_specific,,,ar
-5,4,2023-03-10 11:30:43.711,12,Open: 290,5,4,select_station,,,,290,ar
-5,5,2023-03-10 11:30:46.840,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,5,finish_task,,,,,ar
-5,5,2023-03-10 11:31:08.300,2,Open: 260,5,5,select_station,,,,260,ar
-5,5,2023-03-10 11:31:25.634,3,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,5,5,close,personal,,,,ar
-5,5,2023-03-10 11:31:29.021,4,Open: 260,5,5,select_station,,,,260,ar
-5,5,2023-03-10 11:31:41.622,5,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,5,show_kpi,personal,,,,ar
-5,5,2023-03-10 11:31:47.947,6,PersonalInfo/KPIsMain/Buttons/PartCountButton,5,5,select_attr,,,partCount,,ar
-5,5,2023-03-10 11:31:57.313,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar
-5,5,2023-03-10 11:31:58.036,8,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar
-5,5,2023-03-10 11:31:58.446,9,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar
-5,5,2023-03-10 11:32:00.069,10,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar
-5,5,2023-03-10 11:32:01.525,11,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar
-5,5,2023-03-10 11:32:02.166,12,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar
-5,6,2023-03-10 11:33:30.591,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,6,finish_task,,,,,ar
-6,2,2023-03-10 15:20:39.625,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,2,finish_task,,,,,ar
-6,2,2023-03-10 15:20:49.852,2,Open: 260,6,2,select_station,,,,260,ar
-6,2,2023-03-10 15:20:52.942,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,2,show_kpi,personal,,,,ar
-6,2,2023-03-10 15:21:06.520,4,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,6,2,close,personal,kpi_main,,,ar
-6,3,2023-03-10 15:23:24.547,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,3,finish_task,,,,,ar
-6,4,2023-03-10 15:23:42.914,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,4,finish_task,,,,,ar
-6,4,2023-03-10 15:23:51.849,2,Open: 290,6,4,select_station,,,,290,ar
-6,4,2023-03-10 15:23:54.441,3,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,6,4,show_cycle,personal,,,,ar
-6,4,2023-03-10 15:23:59.683,4,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,6,4,back,personal,cycle_time_main,,,ar
-6,4,2023-03-10 15:24:01.753,5,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,4,show_kpi,personal,,,,ar
-6,4,2023-03-10 15:24:03.300,6,PersonalInfo/KPIsMain/Buttons/OEEButton,6,4,select_attr,,,oee,,ar
-6,4,2023-03-10 15:24:12.779,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,6,4,set_slider,,,,,ar
-6,4,2023-03-10 15:24:39.944,8,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,6,4,close,personal,kpi_specific,,,ar
-6,5,2023-03-10 15:24:42.900,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,5,finish_task,,,,,ar
-6,5,2023-03-10 15:24:59.964,2,Open: 260,6,5,select_station,,,,260,ar
-6,5,2023-03-10 15:25:00.184,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,5,show_kpi,personal,,,,ar
-6,5,2023-03-10 15:25:02.548,4,PersonalInfo/KPIsMain/Buttons/PartCountNIOButton,6,5,select_attr,,,partCountNIO,,ar
-6,5,2023-03-10 15:25:08.008,5,PersonalInfo/KPIsSpecific/ShiftNumberSlider,6,5,set_slider,,,,,ar
-6,5,2023-03-10 15:25:12.360,6,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,6,5,close,personal,kpi_specific,,,ar
-6,5,2023-03-10 15:25:13.527,7,Open: 260,6,5,select_station,,,,260,ar
-6,5,2023-03-10 15:25:14.868,8,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,5,show_kpi,personal,,,,ar
-6,5,2023-03-10 15:25:17.184,9,PersonalInfo/KPIsMain/Buttons/PartCountButton,6,5,select_attr,,,partCount,,ar
-6,5,2023-03-10 15:25:22.091,10,PersonalInfo/KPIsSpecific/ShiftNumberSlider,6,5,set_slider,,,,,ar
-6,5,2023-03-10 15:25:30.094,11,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,6,5,close,personal,kpi_specific,,,ar
-6,6,2023-03-10 15:25:44.879,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,6,finish_task,,,,,ar
-7,1,2023-03-10 15:55:19.673,1,Open: 260,7,1,select_station,,,,260,ar
-7,1,2023-03-10 15:56:02.394,2,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,7,1,close,personal,,,,ar
-7,1,2023-03-10 15:56:05.439,3,Open: 260,7,1,select_station,,,,260,ar
-7,1,2023-03-10 15:56:05.638,4,PersonalInfo/GeneralStationInfo/Buttons/BottleneckButton,7,1,bottleneck,personal,,,,ar
-7,1,2023-03-10 15:57:01.367,5,HandMenu/LineMonitoringMenu/FilterButton,7,1,show_filters,,,,,ar
-7,1,2023-03-10 15:57:06.071,6,HandMenu/LineMonitoringMenu/FilterButtonCollection/AllButton,7,1,all,handmenu,,,,ar
-7,1,2023-03-10 15:57:14.431,7,HandMenu/LineMonitoringMenu/BackButton,7,1,back,handmenu,,,,ar
-7,1,2023-03-10 15:57:38.087,8,HandMenu/MainMenu/ButtonCollection/LineMonitoringButton,7,1,line_monitoring,,,,,ar
-7,1,2023-03-10 15:57:48.561,9,Open: 260,7,1,select_station,,,,260,ar
-7,1,2023-03-10 15:57:52.656,10,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,7,1,show_cycle,personal,,,,ar
-7,1,2023-03-10 15:58:07.662,11,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,7,1,close,personal,cycle_time_main,,,ar
-7,1,2023-03-10 15:58:24.374,12,Open: 270,7,1,select_station,,,,270,ar
-7,1,2023-03-10 15:58:30.380,13,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,7,1,show_cycle,personal,,,,ar
-7,1,2023-03-10 15:58:34.886,14,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,7,1,back,personal,cycle_time_main,,,ar
-7,1,2023-03-10 15:58:38.076,15,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,7,1,close,personal,,,,ar
-7,2,2023-03-10 15:58:55.714,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,2,finish_task,,,,,ar
-7,2,2023-03-10 15:59:06.860,2,Open: 260,7,2,select_station,,,,260,ar
-7,2,2023-03-10 15:59:07.039,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,7,2,show_kpi,personal,,,,ar
-7,2,2023-03-10 15:59:27.694,4,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,7,2,close,personal,kpi_main,,,ar
-7,3,2023-03-10 15:59:33.099,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,3,finish_task,,,,,ar
-7,3,2023-03-10 15:59:52.297,2,Open: 270,7,3,select_station,,,,270,ar
-7,4,2023-03-10 15:59:56.637,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,4,finish_task,,,,,ar
-7,4,2023-03-10 16:00:10.164,2,Open: 290,7,4,select_station,,,,290,ar
-7,4,2023-03-10 16:00:42.895,3,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,7,4,close,personal,,,,ar
-7,4,2023-03-10 16:00:45.314,4,Open: 290,7,4,select_station,,,,290,ar
-7,4,2023-03-10 16:00:45.499,5,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,7,4,show_kpi,personal,,,,ar
-7,4,2023-03-10 16:00:57.124,6,PersonalInfo/KPIsMain/Buttons/OEEButton,7,4,select_attr,,,oee,,ar
-7,4,2023-03-10 16:01:03.594,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,7,4,set_slider,,,,,ar
-7,4,2023-03-10 16:01:17.007,8,PersonalInfo/KPIsSpecific/ShiftNumberSlider,7,4,set_slider,,,,,ar
-7,4,2023-03-10 16:02:40.895,9,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,7,4,close,personal,kpi_specific,,,ar
-7,5,2023-03-10 16:02:43.755,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,5,finish_task,,,,,ar
-7,5,2023-03-10 16:02:56.146,2,Open: 260,7,5,select_station,,,,260,ar
-7,5,2023-03-10 16:02:57.779,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,7,5,show_kpi,personal,,,,ar
-7,5,2023-03-10 16:02:59.656,4,PersonalInfo/KPIsMain/Buttons/PartCountButton,7,5,select_attr,,,partCount,,ar
-7,5,2023-03-10 16:03:26.639,5,PersonalInfo/KPIsSpecific/ShiftNumberSlider,7,5,set_slider,,,,,ar
-7,5,2023-03-10 16:03:54.183,6,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,7,5,close,personal,kpi_specific,,,ar
-7,6,2023-03-10 16:03:58.399,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,6,finish_task,,,,,ar
-8,2,2023-03-10 16:12:15.450,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,2,finish_task,,,,,ar
-8,2,2023-03-10 16:12:42.018,2,Open: 260,8,2,select_station,,,,260,ar
-8,2,2023-03-10 16:12:45.941,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,8,2,show_kpi,personal,,,,ar
-8,2,2023-03-10 16:13:00.679,4,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,8,2,close,personal,kpi_main,,,ar
-8,3,2023-03-10 16:13:04.702,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,3,finish_task,,,,,ar
-8,4,2023-03-10 16:13:18.381,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,4,finish_task,,,,,ar
-8,4,2023-03-10 16:13:32.960,2,Open: 290,8,4,select_station,,,,290,ar
-8,4,2023-03-10 16:13:46.582,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,8,4,show_kpi,personal,,,,ar
-8,4,2023-03-10 16:13:59.717,4,PersonalInfo/KPIsMain/Buttons/OEEButton,8,4,select_attr,,,oee,,ar
-8,4,2023-03-10 16:14:15.461,5,PersonalInfo/KPIsSpecific/ShiftNumberSlider,8,4,set_slider,,,,,ar
-8,4,2023-03-10 16:14:25.081,6,Open: 290,8,4,select_station,,,,290,ar
-8,5,2023-03-10 16:14:29.651,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,5,finish_task,,,,,ar
-8,5,2023-03-10 16:14:34.729,2,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,8,5,close,personal,,,,ar
-8,5,2023-03-10 16:14:55.090,3,Open: 260,8,5,select_station,,,,260,ar
-8,5,2023-03-10 16:14:56.452,4,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,8,5,show_kpi,personal,,,,ar
-8,5,2023-03-10 16:14:58.075,5,PersonalInfo/KPIsMain/Buttons/PartCountButton,8,5,select_attr,,,partCount,,ar
-8,5,2023-03-10 16:15:08.476,6,PersonalInfo/KPIsSpecific/ShiftNumberSlider,8,5,set_slider,,,,,ar
-8,5,2023-03-10 16:15:24.814,7,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,8,5,close,personal,kpi_specific,,,ar
-8,6,2023-03-10 16:15:28.150,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,6,finish_task,,,,,ar
+timestamp,TASK_CLICK_NUMBER,fullEvent,id,task,event,context,subcontext,attr,station,environment
+2023-03-10 19:09:33.732,1,Open: 260,0,1,select_station,,,,260,ar
+2023-03-10 19:09:35.606,2,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,0,1,show_cycle,personal,,,,ar
+2023-03-10 19:09:37.340,3,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,0,1,back,personal,cycle_time_main,,,ar
+2023-03-10 19:09:40.271,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,2,finish_task,,,,,ar
+2023-03-10 19:09:42.119,2,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,0,2,show_kpi,personal,,,,ar
+2023-03-10 19:09:45.505,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,3,finish_task,,,,,ar
+2023-03-10 19:09:47.392,2,HandMenu/LineMonitoringMenu/FilterButton,0,3,show_filters,,,,,ar
+2023-03-10 19:09:48.245,3,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,0,3,bottleneck,handmenu,,,,ar
+2023-03-10 19:09:53.687,4,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,0,3,close,personal,kpi_main,,,ar
+2023-03-10 19:09:58.024,5,HandMenu/LineMonitoringMenu/CancelFilteringButton,0,3,cancel_filter,handmenu,,,,ar
+2023-03-10 19:10:00.085,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,4,finish_task,,,,,ar
+2023-03-10 19:10:02.625,2,HandMenu/LineMonitoringMenu/FilterButton,0,4,show_filters,,,,,ar
+2023-03-10 19:10:03.301,3,HandMenu/LineMonitoringMenu/FilterButtonCollection/AllButton,0,4,all,handmenu,,,,ar
+2023-03-10 19:10:03.939,4,HandMenu/LineMonitoringMenu/CancelFilteringButton,0,4,cancel_filter,handmenu,,,,ar
+2023-03-10 19:10:04.948,5,Open: 290,0,4,select_station,,,,290,ar
+2023-03-10 19:10:06.409,6,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,0,4,show_kpi,personal,,,,ar
+2023-03-10 19:10:06.993,7,PersonalInfo/KPIsMain/Buttons/OEEButton,0,4,select_attr,,,oee,,ar
+2023-03-10 19:10:08.184,8,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar
+2023-03-10 19:10:09.541,9,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar
+2023-03-10 19:10:09.801,10,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar
+2023-03-10 19:10:10.434,11,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar
+2023-03-10 19:10:12.217,12,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar
+2023-03-10 19:10:13.519,13,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,4,set_slider,,,,,ar
+2023-03-10 19:10:15.971,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,5,finish_task,,,,,ar
+2023-03-10 19:10:18.145,2,PersonalInfo/KPIsSpecific/TitleBar/Buttons/BackButton,0,5,back,personal,kpi_specific,,,ar
+2023-03-10 19:10:18.848,3,PersonalInfo/KPIsMain/Buttons/PartCountButton,0,5,select_attr,,,partCount,,ar
+2023-03-10 19:10:21.400,4,Open: 260,0,5,select_station,,,,260,ar
+2023-03-10 19:10:22.545,5,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,0,5,show_kpi,personal,,,,ar
+2023-03-10 19:10:23.029,6,PersonalInfo/KPIsMain/Buttons/PartCountButton,0,5,select_attr,,,partCount,,ar
+2023-03-10 19:10:26.368,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,0,5,set_slider,,,,,ar
+2023-03-10 19:10:31.275,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,0,6,finish_task,,,,,ar
+2023-03-10 17:18:37.697,1,Open: 260,1,1,select_station,,,,260,ar
+2023-03-10 17:18:43.210,2,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,1,1,show_cycle,personal,,,,ar
+2023-03-10 17:19:20.401,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,2,finish_task,,,,,ar
+2023-03-10 17:19:31.517,2,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,1,2,back,personal,cycle_time_main,,,ar
+2023-03-10 17:19:33.175,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,1,2,show_kpi,personal,,,,ar
+2023-03-10 17:19:52.694,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,3,finish_task,,,,,ar
+2023-03-10 17:19:58.858,2,PersonalInfo/KPIsMain/TitleBar/Buttons/BackButton,1,3,back,personal,kpi_main,,,ar
+2023-03-10 17:20:12.436,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,4,finish_task,,,,,ar
+2023-03-10 17:20:37.114,2,Open: 290,1,4,select_station,,,,290,ar
+2023-03-10 17:21:05.403,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,1,4,show_kpi,personal,,,,ar
+2023-03-10 17:21:11.733,4,PersonalInfo/KPIsMain/Buttons/OEEButton,1,4,select_attr,,,oee,,ar
+2023-03-10 17:21:21.428,5,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar
+2023-03-10 17:21:33.181,6,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar
+2023-03-10 17:21:45.728,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar
+2023-03-10 17:22:04.829,8,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar
+2023-03-10 17:22:08.365,9,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar
+2023-03-10 17:22:13.034,10,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,4,set_slider,,,,,ar
+2023-03-10 17:22:40.052,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,5,finish_task,,,,,ar
+2023-03-10 17:22:52.953,2,PersonalInfo/KPIsSpecific/TitleBar/Buttons/BackButton,1,5,back,personal,kpi_specific,,,ar
+2023-03-10 17:22:54.124,3,PersonalInfo/KPIsMain/TitleBar/Buttons/BackButton,1,5,back,personal,kpi_main,,,ar
+2023-03-10 17:23:02.968,4,Open: 260,1,5,select_station,,,,260,ar
+2023-03-10 17:23:27.616,5,Open: 270,1,5,select_station,,,,270,ar
+2023-03-10 17:23:32.439,6,Open: 260,1,5,select_station,,,,260,ar
+2023-03-10 17:23:40.899,7,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,1,5,show_cycle,personal,,,,ar
+2023-03-10 17:23:43.436,8,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,1,5,back,personal,cycle_time_main,,,ar
+2023-03-10 17:23:44.205,9,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,1,5,show_kpi,personal,,,,ar
+2023-03-10 17:23:47.489,10,PersonalInfo/KPIsMain/Buttons/PartCountButton,1,5,select_attr,,,partCount,,ar
+2023-03-10 17:23:53.352,11,PersonalInfo/KPIsSpecific/ShiftNumberSlider,1,5,set_slider,,,,,ar
+2023-03-10 17:24:23.719,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,1,6,finish_task,,,,,ar
+2023-03-10 17:30:46.691,1,Open: 260,2,1,select_station,,,,260,ar
+2023-03-10 17:30:51.041,2,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,2,1,show_cycle,personal,,,,ar
+2023-03-10 17:31:07.471,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,2,finish_task,,,,,ar
+2023-03-10 17:31:28.580,2,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,2,2,close,personal,cycle_time_main,,,ar
+2023-03-10 17:31:30.578,3,Open: 260,2,2,select_station,,,,260,ar
+2023-03-10 17:31:32.334,4,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,2,2,show_kpi,personal,,,,ar
+2023-03-10 17:32:02.294,5,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,2,2,close,personal,kpi_main,,,ar
+2023-03-10 17:32:06.279,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,3,finish_task,,,,,ar
+2023-03-10 17:32:24.898,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,4,finish_task,,,,,ar
+2023-03-10 17:32:25.721,2,Open: 270,2,4,select_station,,,,270,ar
+2023-03-10 17:32:48.121,3,Open: 290,2,4,select_station,,,,290,ar
+2023-03-10 17:32:58.907,4,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,2,4,close,personal,,,,ar
+2023-03-10 17:33:03.452,5,Open: 290,2,4,select_station,,,,290,ar
+2023-03-10 17:33:10.831,6,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,2,4,show_kpi,personal,,,,ar
+2023-03-10 17:33:17.700,7,PersonalInfo/KPIsMain/Buttons/OEEButton,2,4,select_attr,,,oee,,ar
+2023-03-10 17:33:26.829,8,PersonalInfo/KPIsSpecific/ShiftNumberSlider,2,4,set_slider,,,,,ar
+2023-03-10 17:33:33.824,9,Open: 290,2,4,select_station,,,,290,ar
+2023-03-10 17:33:37.350,10,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,2,4,close,personal,,,,ar
+2023-03-10 17:33:40.643,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,5,finish_task,,,,,ar
+2023-03-10 17:33:50.676,2,Open: 290,2,5,select_station,,,,290,ar
+2023-03-10 17:33:53.515,3,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,2,5,close,personal,,,,ar
+2023-03-10 17:33:56.576,4,Open: 260,2,5,select_station,,,,260,ar
+2023-03-10 17:34:05.246,5,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,2,5,show_kpi,personal,,,,ar
+2023-03-10 17:34:06.583,6,PersonalInfo/KPIsMain/Buttons/PartCountButton,2,5,select_attr,,,partCount,,ar
+2023-03-10 17:34:39.022,7,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,2,5,close,personal,kpi_specific,,,ar
+2023-03-10 17:34:44.777,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,2,6,finish_task,,,,,ar
+2023-03-10 09:52:17.844,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,2,finish_task,,,,,ar
+2023-03-10 09:52:32.191,2,Open: 260,3,2,select_station,,,,260,ar
+2023-03-10 09:52:33.801,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,3,2,show_kpi,personal,,,,ar
+2023-03-10 09:52:46.026,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,3,finish_task,,,,,ar
+2023-03-10 09:53:01.945,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,4,finish_task,,,,,ar
+2023-03-10 09:53:09.397,2,Open: 290,3,4,select_station,,,,290,ar
+2023-03-10 09:53:26.989,3,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,4,close,personal,,,,ar
+2023-03-10 09:53:35.927,4,Open: 290,3,4,select_station,,,,290,ar
+2023-03-10 09:53:46.894,5,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,3,4,show_kpi,personal,,,,ar
+2023-03-10 09:53:48.801,6,PersonalInfo/KPIsMain/Buttons/OEEButton,3,4,select_attr,,,oee,,ar
+2023-03-10 09:53:52.339,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
+2023-03-10 09:53:52.954,8,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
+2023-03-10 09:53:53.168,9,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
+2023-03-10 09:53:54.353,10,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
+2023-03-10 09:53:56.252,11,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
+2023-03-10 09:53:58.940,12,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
+2023-03-10 09:54:03.106,13,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
+2023-03-10 09:54:08.170,14,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
+2023-03-10 09:54:42.287,15,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
+2023-03-10 09:54:44.204,16,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
+2023-03-10 09:54:45.917,17,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,4,set_slider,,,,,ar
+2023-03-10 09:55:09.751,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,5,finish_task,,,,,ar
+2023-03-10 09:55:38.107,2,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,3,5,close,personal,kpi_specific,,,ar
+2023-03-10 09:55:43.406,3,Open: 260,3,5,select_station,,,,260,ar
+2023-03-10 09:55:47.595,4,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,3,5,show_kpi,personal,,,,ar
+2023-03-10 09:55:48.480,5,PersonalInfo/KPIsMain/Buttons/PartCountButton,3,5,select_attr,,,partCount,,ar
+2023-03-10 09:55:54.871,6,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,5,set_slider,,,,,ar
+2023-03-10 09:55:57.487,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,3,5,set_slider,,,,,ar
+2023-03-10 09:56:17.357,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,3,6,finish_task,,,,,ar
+2023-03-10 09:56:19.938,2,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,3,6,close,personal,kpi_specific,,,ar
+2023-03-10 09:57:05.226,3,Open: 290,3,6,select_station,,,,290,ar
+2023-03-10 09:57:11.357,4,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar
+2023-03-10 09:57:13.963,5,Open: 260,3,6,select_station,,,,260,ar
+2023-03-10 09:57:22.808,6,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar
+2023-03-10 09:57:26.805,7,Open: 260,3,6,select_station,,,,260,ar
+2023-03-10 09:57:34.472,8,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar
+2023-03-10 09:57:48.339,9,Open: 260,3,6,select_station,,,,260,ar
+2023-03-10 09:57:58.290,10,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,3,6,close,personal,,,,ar
+2023-03-10 09:58:01.105,11,Open: 260,3,6,select_station,,,,260,ar
+2023-03-10 11:42:37.975,1,Open: 260,4,1,select_station,,,,260,ar
+2023-03-10 11:42:39.811,2,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,4,1,show_cycle,personal,,,,ar
+2023-03-10 11:42:43.086,3,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,4,1,back,personal,cycle_time_main,,,ar
+2023-03-10 11:42:44.464,4,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,4,1,close,personal,,,,ar
+2023-03-10 11:42:50.166,5,Open: 270,4,1,select_station,,,,270,ar
+2023-03-10 11:42:51.383,6,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,4,1,show_cycle,personal,,,,ar
+2023-03-10 11:42:58.909,7,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,4,1,close,personal,cycle_time_main,,,ar
+2023-03-10 11:43:01.250,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,2,finish_task,,,,,ar
+2023-03-10 11:43:10.038,2,Open: 260,4,2,select_station,,,,260,ar
+2023-03-10 11:43:12.092,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,4,2,show_kpi,personal,,,,ar
+2023-03-10 11:43:25.334,4,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,4,2,close,personal,kpi_main,,,ar
+2023-03-10 11:43:31.817,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,3,finish_task,,,,,ar
+2023-03-10 11:43:44.135,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,4,finish_task,,,,,ar
+2023-03-10 11:43:55.194,2,HandMenu/LineMonitoringMenu/FilterButton,4,4,show_filters,,,,,ar
+2023-03-10 11:44:01.332,3,HandMenu/LineMonitoringMenu/FilterButtonCollection/KPIsButton,4,4,show_kpi,handmenu,,,,ar
+2023-03-10 11:44:06.134,4,Open: 290,4,4,select_station,,,,290,ar
+2023-03-10 11:44:09.313,5,PersonalInfo/KPIsMain/Buttons/OEEButton,4,4,select_attr,,,oee,,ar
+2023-03-10 11:44:15.733,6,PersonalInfo/KPIsSpecific/ShiftNumberSlider,4,4,set_slider,,,,,ar
+2023-03-10 11:44:28.674,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,5,finish_task,,,,,ar
+2023-03-10 11:44:38.818,2,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,4,5,close,personal,kpi_specific,,,ar
+2023-03-10 11:44:41.469,3,Open: 260,4,5,select_station,,,,260,ar
+2023-03-10 11:44:41.512,4,Open: 260,4,5,select_station,,,,260,ar
+2023-03-10 11:44:41.559,5,Open: 260,4,5,select_station,,,,260,ar
+2023-03-10 11:44:48.938,6,PersonalInfo/KPIsMain/Buttons/PartCountButton,4,5,select_attr,,,partCount,,ar
+2023-03-10 11:44:55.710,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,4,5,set_slider,,,,,ar
+2023-03-10 11:45:13.168,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,6,finish_task,,,,,ar
+2023-03-10 11:45:14.975,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,4,7,finish_task,,,,,ar
+2023-03-10 11:45:17.049,2,HandMenu/LineMonitoringMenu/FilterButtonCollection/AllButton,4,7,all,handmenu,,,,ar
+2023-03-10 11:45:26.373,3,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,4,7,bottleneck,handmenu,,,,ar
+2023-03-10 11:46:13.868,4,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,4,7,close,personal,kpi_specific,,,ar
+2023-03-10 11:46:20.855,5,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,4,7,bottleneck,handmenu,,,,ar
+2023-03-10 11:46:23.139,6,HandMenu/LineMonitoringMenu/FilterButtonCollection/BottleneckButton,4,7,bottleneck,handmenu,,,,ar
+2023-03-10 11:46:32.078,7,HandMenu/LineMonitoringMenu/FilterButtonCollection/CycleTimeButton,4,7,,,,,,ar
+2023-03-10 11:46:39.722,8,HandMenu/LineMonitoringMenu/FilterButtonCollection/KPIsButton,4,7,show_kpi,handmenu,,,,ar
+2023-03-10 11:46:46.828,9,HandMenu/LineMonitoringMenu/FilterButtonCollection/CycleTimeButton,4,7,,,,,,ar
+2023-03-10 11:46:48.860,10,HandMenu/LineMonitoringMenu/FilterButtonCollection/KPIsButton,4,7,show_kpi,handmenu,,,,ar
+2023-03-10 11:46:51.220,11,HandMenu/LineMonitoringMenu/FilterButtonCollection/CycleTimeButton,4,7,,,,,,ar
+2023-03-10 11:46:51.856,12,Open: 270,4,7,select_station,,,,270,ar
+2023-03-10 11:46:54.562,13,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,4,7,close,personal,cycle_time_main,,,ar
+2023-03-10 11:46:55.114,14,Open: 270,4,7,select_station,,,,270,ar
+2023-03-10 11:46:56.752,15,HandMenu/LineMonitoringMenu/OverviewButton,4,7,overview,,,,,ar
+2023-03-10 11:47:03.643,16,PersonalInfo/StationsOverview/TitleBar/Buttons/FollowMeButton,4,7,followme,,,,,ar
+2023-03-10 11:47:09.440,17,HandMenu/LineMonitoringMenu/BackButton,4,7,back,handmenu,,,,ar
+2023-03-10 11:27:04.911,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,2,finish_task,,,,,ar
+2023-03-10 11:27:27.287,2,Open: 260,5,2,select_station,,,,260,ar
+2023-03-10 11:27:31.726,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,2,show_kpi,personal,,,,ar
+2023-03-10 11:27:55.396,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,3,finish_task,,,,,ar
+2023-03-10 11:28:02.431,2,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,5,3,close,personal,kpi_main,,,ar
+2023-03-10 11:28:10.748,3,Open: 270,5,3,select_station,,,,270,ar
+2023-03-10 11:28:17.314,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,4,finish_task,,,,,ar
+2023-03-10 11:28:28.267,2,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,4,show_kpi,personal,,,,ar
+2023-03-10 11:28:51.255,3,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,5,4,close,personal,kpi_main,,,ar
+2023-03-10 11:28:58.666,4,Open: 290,5,4,select_station,,,,290,ar
+2023-03-10 11:29:13.630,5,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,5,4,close,personal,,,,ar
+2023-03-10 11:29:15.676,6,Open: 290,5,4,select_station,,,,290,ar
+2023-03-10 11:29:20.119,7,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,4,show_kpi,personal,,,,ar
+2023-03-10 11:29:30.076,8,PersonalInfo/KPIsMain/Buttons/OEEButton,5,4,select_attr,,,oee,,ar
+2023-03-10 11:30:28.131,9,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,4,set_slider,,,,,ar
+2023-03-10 11:30:31.512,10,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,4,set_slider,,,,,ar
+2023-03-10 11:30:42.947,11,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,5,4,close,personal,kpi_specific,,,ar
+2023-03-10 11:30:43.711,12,Open: 290,5,4,select_station,,,,290,ar
+2023-03-10 11:30:46.840,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,5,finish_task,,,,,ar
+2023-03-10 11:31:08.300,2,Open: 260,5,5,select_station,,,,260,ar
+2023-03-10 11:31:25.634,3,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,5,5,close,personal,,,,ar
+2023-03-10 11:31:29.021,4,Open: 260,5,5,select_station,,,,260,ar
+2023-03-10 11:31:41.622,5,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,5,5,show_kpi,personal,,,,ar
+2023-03-10 11:31:47.947,6,PersonalInfo/KPIsMain/Buttons/PartCountButton,5,5,select_attr,,,partCount,,ar
+2023-03-10 11:31:57.313,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar
+2023-03-10 11:31:58.036,8,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar
+2023-03-10 11:31:58.446,9,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar
+2023-03-10 11:32:00.069,10,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar
+2023-03-10 11:32:01.525,11,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar
+2023-03-10 11:32:02.166,12,PersonalInfo/KPIsSpecific/ShiftNumberSlider,5,5,set_slider,,,,,ar
+2023-03-10 11:33:30.591,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,5,6,finish_task,,,,,ar
+2023-03-10 15:20:39.625,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,2,finish_task,,,,,ar
+2023-03-10 15:20:49.852,2,Open: 260,6,2,select_station,,,,260,ar
+2023-03-10 15:20:52.942,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,2,show_kpi,personal,,,,ar
+2023-03-10 15:21:06.520,4,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,6,2,close,personal,kpi_main,,,ar
+2023-03-10 15:23:24.547,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,3,finish_task,,,,,ar
+2023-03-10 15:23:42.914,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,4,finish_task,,,,,ar
+2023-03-10 15:23:51.849,2,Open: 290,6,4,select_station,,,,290,ar
+2023-03-10 15:23:54.441,3,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,6,4,show_cycle,personal,,,,ar
+2023-03-10 15:23:59.683,4,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,6,4,back,personal,cycle_time_main,,,ar
+2023-03-10 15:24:01.753,5,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,4,show_kpi,personal,,,,ar
+2023-03-10 15:24:03.300,6,PersonalInfo/KPIsMain/Buttons/OEEButton,6,4,select_attr,,,oee,,ar
+2023-03-10 15:24:12.779,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,6,4,set_slider,,,,,ar
+2023-03-10 15:24:39.944,8,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,6,4,close,personal,kpi_specific,,,ar
+2023-03-10 15:24:42.900,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,5,finish_task,,,,,ar
+2023-03-10 15:24:59.964,2,Open: 260,6,5,select_station,,,,260,ar
+2023-03-10 15:25:00.184,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,5,show_kpi,personal,,,,ar
+2023-03-10 15:25:02.548,4,PersonalInfo/KPIsMain/Buttons/PartCountNIOButton,6,5,select_attr,,,partCountNIO,,ar
+2023-03-10 15:25:08.008,5,PersonalInfo/KPIsSpecific/ShiftNumberSlider,6,5,set_slider,,,,,ar
+2023-03-10 15:25:12.360,6,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,6,5,close,personal,kpi_specific,,,ar
+2023-03-10 15:25:13.527,7,Open: 260,6,5,select_station,,,,260,ar
+2023-03-10 15:25:14.868,8,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,6,5,show_kpi,personal,,,,ar
+2023-03-10 15:25:17.184,9,PersonalInfo/KPIsMain/Buttons/PartCountButton,6,5,select_attr,,,partCount,,ar
+2023-03-10 15:25:22.091,10,PersonalInfo/KPIsSpecific/ShiftNumberSlider,6,5,set_slider,,,,,ar
+2023-03-10 15:25:30.094,11,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,6,5,close,personal,kpi_specific,,,ar
+2023-03-10 15:25:44.879,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,6,6,finish_task,,,,,ar
+2023-03-10 15:55:19.673,1,Open: 260,7,1,select_station,,,,260,ar
+2023-03-10 15:56:02.394,2,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,7,1,close,personal,,,,ar
+2023-03-10 15:56:05.439,3,Open: 260,7,1,select_station,,,,260,ar
+2023-03-10 15:56:05.638,4,PersonalInfo/GeneralStationInfo/Buttons/BottleneckButton,7,1,bottleneck,personal,,,,ar
+2023-03-10 15:57:01.367,5,HandMenu/LineMonitoringMenu/FilterButton,7,1,show_filters,,,,,ar
+2023-03-10 15:57:06.071,6,HandMenu/LineMonitoringMenu/FilterButtonCollection/AllButton,7,1,all,handmenu,,,,ar
+2023-03-10 15:57:14.431,7,HandMenu/LineMonitoringMenu/BackButton,7,1,back,handmenu,,,,ar
+2023-03-10 15:57:38.087,8,HandMenu/MainMenu/ButtonCollection/LineMonitoringButton,7,1,line_monitoring,,,,,ar
+2023-03-10 15:57:48.561,9,Open: 260,7,1,select_station,,,,260,ar
+2023-03-10 15:57:52.656,10,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,7,1,show_cycle,personal,,,,ar
+2023-03-10 15:58:07.662,11,PersonalInfo/CycleTimesMain/TitleBar/Buttons/CloseButton,7,1,close,personal,cycle_time_main,,,ar
+2023-03-10 15:58:24.374,12,Open: 270,7,1,select_station,,,,270,ar
+2023-03-10 15:58:30.380,13,PersonalInfo/GeneralStationInfo/Buttons/CycleTimesButton,7,1,show_cycle,personal,,,,ar
+2023-03-10 15:58:34.886,14,PersonalInfo/CycleTimesMain/TitleBar/Buttons/BackButton,7,1,back,personal,cycle_time_main,,,ar
+2023-03-10 15:58:38.076,15,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,7,1,close,personal,,,,ar
+2023-03-10 15:58:55.714,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,2,finish_task,,,,,ar
+2023-03-10 15:59:06.860,2,Open: 260,7,2,select_station,,,,260,ar
+2023-03-10 15:59:07.039,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,7,2,show_kpi,personal,,,,ar
+2023-03-10 15:59:27.694,4,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,7,2,close,personal,kpi_main,,,ar
+2023-03-10 15:59:33.099,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,3,finish_task,,,,,ar
+2023-03-10 15:59:52.297,2,Open: 270,7,3,select_station,,,,270,ar
+2023-03-10 15:59:56.637,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,4,finish_task,,,,,ar
+2023-03-10 16:00:10.164,2,Open: 290,7,4,select_station,,,,290,ar
+2023-03-10 16:00:42.895,3,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,7,4,close,personal,,,,ar
+2023-03-10 16:00:45.314,4,Open: 290,7,4,select_station,,,,290,ar
+2023-03-10 16:00:45.499,5,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,7,4,show_kpi,personal,,,,ar
+2023-03-10 16:00:57.124,6,PersonalInfo/KPIsMain/Buttons/OEEButton,7,4,select_attr,,,oee,,ar
+2023-03-10 16:01:03.594,7,PersonalInfo/KPIsSpecific/ShiftNumberSlider,7,4,set_slider,,,,,ar
+2023-03-10 16:01:17.007,8,PersonalInfo/KPIsSpecific/ShiftNumberSlider,7,4,set_slider,,,,,ar
+2023-03-10 16:02:40.895,9,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,7,4,close,personal,kpi_specific,,,ar
+2023-03-10 16:02:43.755,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,5,finish_task,,,,,ar
+2023-03-10 16:02:56.146,2,Open: 260,7,5,select_station,,,,260,ar
+2023-03-10 16:02:57.779,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,7,5,show_kpi,personal,,,,ar
+2023-03-10 16:02:59.656,4,PersonalInfo/KPIsMain/Buttons/PartCountButton,7,5,select_attr,,,partCount,,ar
+2023-03-10 16:03:26.639,5,PersonalInfo/KPIsSpecific/ShiftNumberSlider,7,5,set_slider,,,,,ar
+2023-03-10 16:03:54.183,6,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,7,5,close,personal,kpi_specific,,,ar
+2023-03-10 16:03:58.399,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,7,6,finish_task,,,,,ar
+2023-03-10 16:12:15.450,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,2,finish_task,,,,,ar
+2023-03-10 16:12:42.018,2,Open: 260,8,2,select_station,,,,260,ar
+2023-03-10 16:12:45.941,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,8,2,show_kpi,personal,,,,ar
+2023-03-10 16:13:00.679,4,PersonalInfo/KPIsMain/TitleBar/Buttons/CloseButton,8,2,close,personal,kpi_main,,,ar
+2023-03-10 16:13:04.702,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,3,finish_task,,,,,ar
+2023-03-10 16:13:18.381,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,4,finish_task,,,,,ar
+2023-03-10 16:13:32.960,2,Open: 290,8,4,select_station,,,,290,ar
+2023-03-10 16:13:46.582,3,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,8,4,show_kpi,personal,,,,ar
+2023-03-10 16:13:59.717,4,PersonalInfo/KPIsMain/Buttons/OEEButton,8,4,select_attr,,,oee,,ar
+2023-03-10 16:14:15.461,5,PersonalInfo/KPIsSpecific/ShiftNumberSlider,8,4,set_slider,,,,,ar
+2023-03-10 16:14:25.081,6,Open: 290,8,4,select_station,,,,290,ar
+2023-03-10 16:14:29.651,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,5,finish_task,,,,,ar
+2023-03-10 16:14:34.729,2,PersonalInfo/GeneralStationInfo/TitleBar/Buttons/CloseButtoon,8,5,close,personal,,,,ar
+2023-03-10 16:14:55.090,3,Open: 260,8,5,select_station,,,,260,ar
+2023-03-10 16:14:56.452,4,PersonalInfo/GeneralStationInfo/Buttons/KPIsButton,8,5,show_kpi,personal,,,,ar
+2023-03-10 16:14:58.075,5,PersonalInfo/KPIsMain/Buttons/PartCountButton,8,5,select_attr,,,partCount,,ar
+2023-03-10 16:15:08.476,6,PersonalInfo/KPIsSpecific/ShiftNumberSlider,8,5,set_slider,,,,,ar
+2023-03-10 16:15:24.814,7,PersonalInfo/KPIsSpecific/TitleBar/Buttons/CloseButton,8,5,close,personal,kpi_specific,,,ar
+2023-03-10 16:15:28.150,1,HandMenu/LineMonitoringMenu/UsabilityTaskBar/Buttons/CompletedButton,8,6,finish_task,,,,,ar
