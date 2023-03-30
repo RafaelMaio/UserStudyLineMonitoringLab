@@ -1,0 +1,5 @@
+1 - Ver quais as estações que têm tempos de ciclos atrasados
+2 - Verificar quais os kpis que estão fora do valor alvo na estação 260
+3 - Dirigir-se até à estação que está a causar o bottleneck (com alerta de alteração de mudança de bottleneck, com carregar no botão ✅ - 270)
+4 - Indicar qual o valor do OEE da estação 290 há 10 turnos atrás
+5 - Ver as últimas 10 samples da estação 260 do partCount e dizer quais estão acima do target

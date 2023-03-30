@@ -1,0 +1,62 @@
+Adaption:
+1 - "Open" station 100 and station 200 (pinch gesture). The panels will disappear.
+2 - Open the specific partCount menu.
+3 - Try the slider. Close the panel after trying the slider.
+Adaptation done, you are ready! Go back.
+
+User test:
+1 - Indicate which stations have cycle times with delays.
+2 - Verify which KPIs are below the target in station 260.
+3 - Walk to the station causing the line bottlenck.
+4 - Indicate the OEE value in station 290, 10 shifts ago.
+5 - Verify which shifts, from the last 10, are above the target value in the PartCount indicator in station 260.
+User test completed!
+
+
+
+
+switch (adaptationTaskCounter)
+        {
+            case 1:
+                staticFunctions.FindChildByRecursion(adaptationMenu.transform, "TaskText").GetComponent<TextMeshPro>().text =
+                    "2 - Open the specific partCount menu.";
+                break;
+            case 2:
+                staticFunctions.FindChildByRecursion(adaptationMenu.transform, "TaskText").GetComponent<TextMeshPro>().text =
+                    "3 - Try the slider. Close the panel after trying the slider.";
+                break;
+            case 3:
+                staticFunctions.FindChildByRecursion(adaptationMenu.transform, "TaskText").GetComponent<TextMeshPro>().text =
+                    "Adaptation done, you are ready! Go back.";
+                break;
+        }
+
+
+
+
+switch (taskCounter)
+        {
+            case 1:
+                staticFunctions.FindChildByRecursion(usabilityTaskBar.transform, "TaskText").GetComponent<TextMeshPro>().text =
+                    //"2 - Verify which KPIs are critically below the target in station 260.";
+                    "2 - Verify which KPIs are below the target in station 260.";
+                break;
+            case 2:
+                staticFunctions.FindChildByRecursion(usabilityTaskBar.transform, "TaskText").GetComponent<TextMeshPro>().text =
+                    "3 - Walk to the station causing the line bottlenck.";
+                break;
+            case 3:
+                staticFunctions.FindChildByRecursion(usabilityTaskBar.transform, "TaskText").GetComponent<TextMeshPro>().text =
+                //    "4 - Visualize the last 10 samples of the total cycle time of stations 230, 240 and 250.";
+                      "4 - Indicate the OEE value in station 290, 10 shifts ago.";
+                break;
+            case 4:
+                staticFunctions.FindChildByRecursion(usabilityTaskBar.transform, "TaskText").GetComponent<TextMeshPro>().text =
+                    //"5 - See the last 6 samples and the last 45 samples of PartCount in station 270.";
+                    "5 - Verify which shifts, from the last 10, are above the target value in the PartCount indicator in station 260.";
+                break;
+            case 5:
+                staticFunctions.FindChildByRecursion(usabilityTaskBar.transform, "TaskText").GetComponent<TextMeshPro>().text =
+                    //"6 - Indicate the OEE value in station 260, 9 shifts ago.";
+                    "User test completed!";
+                break;
